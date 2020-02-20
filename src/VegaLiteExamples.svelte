@@ -4,6 +4,8 @@ import {default as embed}  from 'vega-embed';
 
 import simpleChartSpec from './vl-specs/vega-simple-chart.js';
 import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
+import scatterplotSpec from './vl-specs/scatterplot.vl.json';
+import choroplethSpec from './vl-specs/choropleth.vl.json';
 import forceGraphSpec from './vl-specs/force.vg.json';
 
 // For debugging
@@ -17,11 +19,11 @@ onMount(() => {
 
    embed("#bar-chart", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
    embed("#line-chart", vgSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#scatter-plot", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#scatter-plot", scatterplotSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#time-series", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#tree", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
    embed("#force-graph", forceGraphSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#geospacial", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#geospacial", choroplethSpec, { actions: false }).catch(error => console.log(error) );
 });
 
 </script>
