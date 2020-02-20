@@ -34,11 +34,11 @@ onMount(() => {
 <ul>
 <input type="checkbox" checked/> bar chart<br/>
 <input type="checkbox" checked/> line chart<br/>
-<input type="checkbox" /> scatter plot<br/>
+<input type="checkbox" checked/> scatter plot<br/>
 <input type="checkbox" /> time series<br/>
 <input type="checkbox" /> tree<br/>
-<input type="checkbox" /> force graph<br/>
-<input type="checkbox" /> geographical projection<br/>
+<input type="checkbox" checked/> force graph<br/>
+<input type="checkbox" checked/> geographical projection<br/>
 </ul>
 </div>
 <div>
@@ -48,7 +48,7 @@ onMount(() => {
       <h3>Bar Chart</h3>
       <div id='bar-chart'></div>
     </div>  
-    <div>
+    <div style="float: left;">
       <h3>Line Chart</h3>
       <div id='line-chart'></div>
     </div>  
