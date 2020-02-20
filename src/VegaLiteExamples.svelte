@@ -7,6 +7,7 @@ import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
 import scatterplotSpec from './vl-specs/scatterplot.vl.json';
 import circleTimelineSpec from './vl-specs/circle_timeline.vl.json';
 import treeSpec from './vl-specs/tree.vg.json';
+import treemapSpec from './vl-specs/treemap.vg.json';
 import choroplethSpec from './vl-specs/choropleth.vl.json';
 import forceGraphSpec from './vl-specs/force.vg.json';
 
@@ -24,26 +25,14 @@ onMount(() => {
    embed("#scatter-plot", scatterplotSpec, { actions: false }).catch(error => console.log(error) );
    embed("#time-series", circleTimelineSpec, { actions: false }).catch(error => console.log(error) );
    embed("#tree", treeSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#treemap", treemapSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#treemap", treemapSpec, { actions: false }).catch(error => console.log(error) );
    embed("#force-graph", forceGraphSpec, { actions: false }).catch(error => console.log(error) );
    embed("#geospacial", choroplethSpec, { actions: false }).catch(error => console.log(error) );
 });
 
 </script>
 <div>
-<h2>TODO</h2>
-<input type="checkbox" /> generate Vega-Lite data for each visualisation from a single RDF dataset.<br/>
-<input type="checkbox" /> create a test dataset and visualisation for each of the following:<br/>
-<ul>
-<input type="checkbox" checked/> bar chart<br/>
-<input type="checkbox" checked/> line chart<br/>
-<input type="checkbox" checked/> scatter plot<br/>
-<input type="checkbox" checked/> time series<br/>
-<input type="checkbox" /> tree<br/>
-<input type="checkbox" /> treemap<br/>
-<input type="checkbox" checked/> geographical projection<br/>
-<input type="checkbox" checked/> force graph<br/>
-</ul>
+<b>TODO: </b><input type="checkbox" /> generate Vega-Lite data for each visualisation from a single RDF dataset.<br/>
 </div>
 <div>
   <h2>Vega-Lite Charts</h2>
