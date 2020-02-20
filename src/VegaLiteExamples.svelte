@@ -2,49 +2,72 @@
 import {onMount} from 'svelte';
 import {default as embed}  from 'vega-embed';
 
-import simpleChartSpec from './data/vega-simple-chart.js';
+import simpleChartSpec from './vl-specs/vega-simple-chart.js';
+import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
+
+// For debugging
+import {compile} from 'vega-lite';
 
 onMount(() => {
-  const spec = `{
-      "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-      "description": "Simple bar chart",
-      "data": {
-          "values": [
-              {"x": "A", "y": 28}, {"x": "y", "B": 55}, {"x": "C", "y": 43},
-              {"x": "D", "y": 91}, {"x": "E", "y": 81}, {"x": "F", "y": 53},
-              {"x": "G", "y": 19}, {"x": "H", "y": 87}, {"x": "I", "y": 52}
-          ]
-      },
-      "mark": "bar",
-      "encoding": {
-          "x": {"field": "x", "type": "ordinal"},
-          "y": {"field": "y", "type": "quantitative"}
-      }
-    }`;
+  console.log('Compiling...')
+  const vgSpec = compile(lineMultipleSpec).spec
+  // vgSpec.width = 500;
+  console.dir(vgSpec);
 
-  // option 1: where the spec is a string
-   embed("#vis1", JSON.parse(spec), { actions: false }).catch(error =>
-     console.log(error)
-   );
-
-  // option 2: js file
-   embed("#vis2", simpleChartSpec, { actions: false }).catch(error =>
-     console.log(error)
-   );
-
-  // option 3: json file
-   embed("#vis3", './force.vg.json', { actions: false }).catch(error =>
-     console.log(error)
-   );
+   embed("#bar-chart", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#line-chart", vgSpec, { actions: false }).catch(error => console.log(error) );
+  //  embed("#scatter-plot", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+  //  embed("#time-series", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+  //  embed("#tree", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+  //  embed("#force-graph", './force.vg.json', { actions: false }).catch(error => console.log(error) );
+  //  embed("#geospacial", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
 });
 
 </script>
-
 <div>
-  <h2>Simple Chart from string and from JS file:</h2>
-  <div id='vis1'></div>
-  <div id='vis2'></div>
-
-  <h2>Vega Force Graph from json file</h2>
-  <div id='vis3'></div>
+<h2>TODO</h2>
+<input type="checkbox" /> generate Vega-Lite data for each visualisation from a single RDF dataset.<br/>
+<input type="checkbox" /> create a test dataset and visualisation for each of the following:<br/>
+<ul>
+<input type="checkbox" checked/> bar chart<br/>
+<input type="checkbox" checked/> line chart<br/>
+<input type="checkbox" /> scatter plot<br/>
+<input type="checkbox" /> time series<br/>
+<input type="checkbox" /> tree<br/>
+<input type="checkbox" /> force graph<br/>
+<input type="checkbox" /> geographical projection<br/>
+</ul>
+</div>
+<div>
+  <h2>Vega-Lite Charts</h2>
+  <div>
+    <div style="float: left;">
+      <h3>Bar Chart</h3>
+      <div id='bar-chart'></div>
+    </div>  
+    <div>
+      <h3>Line Chart</h3>
+      <div id='line-chart'></div>
+    </div>  
+    <div style="float: left;">
+      <h3>Scatter Plot</h3>
+      <div id='scatter-plot'></div>
+    </div>  
+    <div style="float: left;">
+      <h3>Time Series</h3>
+      <div id='time-series'></div>
+    </div>  
+    <div style="float: left;">
+      <h3>Tree</h3>
+      <div id='tree'></div>
+    </div>  
+    <div style="float: left;">
+      <h2>Force Graph</h2>
+      <div id='force-graph'></div>
+    </div>
+    <div style="float: left;">
+      <h3>Geospacial</h3>
+      <div id='geospacial'></div>
+    </div>  
+  </div>
 </div>

@@ -8,7 +8,7 @@
 	}
 </style>
 
-<h1>Vega-Lite Evaluation in Svelte</h1>
+<h1>Vega-Lite in Svelte</h1>
 <p>See the github <a href="https://github.com/theWebalyst/svelte-vega-lite-eval">README</a> for details.
 </p>
 
