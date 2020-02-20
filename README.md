@@ -41,7 +41,6 @@ cd svelte-vega-lite-eval
 yarn
 ```
 Note: yarn >= 1.22.0 is required
-```
 
 ...then start webpack:
 
