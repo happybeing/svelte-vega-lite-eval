@@ -6,6 +6,7 @@ import simpleChartSpec from './vl-specs/vega-simple-chart.js';
 import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
 import scatterplotSpec from './vl-specs/scatterplot.vl.json';
 import circleTimelineSpec from './vl-specs/circle_timeline.vl.json';
+import treeSpec from './vl-specs/tree.vg.json';
 import choroplethSpec from './vl-specs/choropleth.vl.json';
 import forceGraphSpec from './vl-specs/force.vg.json';
 
@@ -22,7 +23,8 @@ onMount(() => {
    embed("#line-chart", vgSpec, { actions: false }).catch(error => console.log(error) );
    embed("#scatter-plot", scatterplotSpec, { actions: false }).catch(error => console.log(error) );
    embed("#time-series", circleTimelineSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#tree", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#tree", treeSpec, { actions: false }).catch(error => console.log(error) );
+  //  embed("#treemap", treemapSpec, { actions: false }).catch(error => console.log(error) );
    embed("#force-graph", forceGraphSpec, { actions: false }).catch(error => console.log(error) );
    embed("#geospacial", choroplethSpec, { actions: false }).catch(error => console.log(error) );
 });
@@ -38,6 +40,7 @@ onMount(() => {
 <input type="checkbox" checked/> scatter plot<br/>
 <input type="checkbox" checked/> time series<br/>
 <input type="checkbox" /> tree<br/>
+<input type="checkbox" /> treemap<br/>
 <input type="checkbox" checked/> geographical projection<br/>
 <input type="checkbox" checked/> force graph<br/>
 </ul>
@@ -64,6 +67,10 @@ onMount(() => {
     <div style="float: left;">
       <h3>Tree</h3>
       <div id='tree'></div>
+    </div>  
+    <div style="float: left;">
+      <h3>Tree Map</h3>
+      <div id='treemap'></div>
     </div>  
     <div style="float: left;">
       <h3>Geospacial</h3>
