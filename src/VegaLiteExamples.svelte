@@ -31,43 +31,50 @@ onMount(() => {
 });
 
 </script>
+
+<style>
+.example { width: 250px; height: 280px; }
+</style>
+
 <div>
 <b>TODO: </b><input type="checkbox" /> generate Vega-Lite data for each visualisation from a single RDF dataset.<br/>
 </div>
 <div>
-  <h2>Vega-Lite Charts</h2>
+  <h2>Vega and Vega-Lite Charts</h2>
+  <p>The following charts use Vega-Lite specifications except for the Tree, Tree Map and Force Graph which use Vega.</p>
   <div>
     <div style="float: left;">
       <h3>Bar Chart</h3>
-      <div id='bar-chart'></div>
+      <div class='example' id='bar-chart'></div>
     </div>  
     <div style="float: left;">
       <h3>Line Chart</h3>
-      <div id='line-chart'></div>
+      <div class='example' id='line-chart'></div>
     </div>  
     <div style="float: left;">
       <h3>Scatter Plot</h3>
-      <div id='scatter-plot'></div>
-    </div>  
-    <div style="float: left;">
-      <h3>Time Series</h3>
-      <div id='time-series'></div>
+      <div class='example' id='scatter-plot'></div>
     </div>  
     <div style="float: left;">
       <h3>Tree</h3>
-      <div id='tree'></div>
+      <div class='example' id='tree'></div>
     </div>  
     <div style="float: left;">
       <h3>Tree Map</h3>
-      <div id='treemap'></div>
+      <div class='example' id='treemap'></div>
     </div>  
     <div style="float: left;">
       <h3>Geospacial</h3>
-      <div id='geospacial'></div>
+      <div class='example' id='geospacial'></div>
     </div>  
     <div style="float: left;">
       <h2>Force Graph</h2>
-      <div id='force-graph'></div>
+      <div class='example' id='force-graph'></div>
     </div>
+    <br/>
+    <div style="float: left;">
+      <h3>Time Series</h3>
+      <div class='example' id='time-series'></div>
+    </div>  
   </div>
 </div>
