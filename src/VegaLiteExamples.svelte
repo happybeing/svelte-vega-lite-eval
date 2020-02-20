@@ -5,6 +5,7 @@ import {default as embed}  from 'vega-embed';
 import simpleChartSpec from './vl-specs/vega-simple-chart.js';
 import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
 import scatterplotSpec from './vl-specs/scatterplot.vl.json';
+import circleTimelineSpec from './vl-specs/circle_timeline.vl.json';
 import choroplethSpec from './vl-specs/choropleth.vl.json';
 import forceGraphSpec from './vl-specs/force.vg.json';
 
@@ -12,15 +13,15 @@ import forceGraphSpec from './vl-specs/force.vg.json';
 import {compile} from 'vega-lite';
 
 onMount(() => {
+  // For debugging
   console.log('Compiling...')
   const vgSpec = compile(lineMultipleSpec).spec
-  // vgSpec.width = 500;
   console.dir(vgSpec);
 
    embed("#bar-chart", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
    embed("#line-chart", vgSpec, { actions: false }).catch(error => console.log(error) );
    embed("#scatter-plot", scatterplotSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#time-series", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
+   embed("#time-series", circleTimelineSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#tree", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
    embed("#force-graph", forceGraphSpec, { actions: false }).catch(error => console.log(error) );
    embed("#geospacial", choroplethSpec, { actions: false }).catch(error => console.log(error) );
@@ -35,10 +36,10 @@ onMount(() => {
 <input type="checkbox" checked/> bar chart<br/>
 <input type="checkbox" checked/> line chart<br/>
 <input type="checkbox" checked/> scatter plot<br/>
-<input type="checkbox" /> time series<br/>
+<input type="checkbox" checked/> time series<br/>
 <input type="checkbox" /> tree<br/>
-<input type="checkbox" checked/> force graph<br/>
 <input type="checkbox" checked/> geographical projection<br/>
+<input type="checkbox" checked/> force graph<br/>
 </ul>
 </div>
 <div>
@@ -65,12 +66,12 @@ onMount(() => {
       <div id='tree'></div>
     </div>  
     <div style="float: left;">
-      <h2>Force Graph</h2>
-      <div id='force-graph'></div>
-    </div>
-    <div style="float: left;">
       <h3>Geospacial</h3>
       <div id='geospacial'></div>
     </div>  
+    <div style="float: left;">
+      <h2>Force Graph</h2>
+      <div id='force-graph'></div>
+    </div>
   </div>
 </div>

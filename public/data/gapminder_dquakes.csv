@@ -1,0 +1,3316 @@
+country,region,year,earthquakeDeaths
+Afghanistan,Asia,1970,0
+Albania,Europe,1970,0
+Algeria,Africa,1970,0
+Argentina,Americas,1970,0
+Armenia,Europe,1970,0
+Australia,Asia,1970,0
+Austria,Europe,1970,0
+Azerbaijan,Europe,1970,0
+Bangladesh,Asia,1970,0
+Barbados,Americas,1970,0
+Belgium,Europe,1970,0
+Bolivia,Americas,1970,0
+Brazil,Americas,1970,0
+Bulgaria,Europe,1970,0
+Burundi,Africa,1970,0
+Chile,Americas,1970,0
+China,Asia,1970,10000
+Colombia,Americas,1970,430
+"Congo, Dem. Rep.",Africa,1970,0
+"Congo, Rep.",Africa,1970,0
+Costa Rica,Americas,1970,0
+Croatia,Europe,1970,0
+Cuba,Americas,1970,0
+Cyprus,Europe,1970,0
+Dominica,Americas,1970,0
+Dominican Republic,Americas,1970,0
+Ecuador,Americas,1970,29
+Egypt,Africa,1970,0
+El Salvador,Americas,1970,0
+Fiji,Asia,1970,0
+Georgia,Europe,1970,0
+Germany,Europe,1970,0
+Greece,Europe,1970,0
+Guatemala,Americas,1970,0
+Guinea,Africa,1970,0
+Honduras,Americas,1970,0
+Iceland,Europe,1970,0
+India,Asia,1970,26
+Indonesia,Asia,1970,0
+Iran,Asia,1970,176
+Iraq,Asia,1970,0
+Italy,Europe,1970,0
+Japan,Asia,1970,0
+Kazakhstan,Asia,1970,0
+Kenya,Africa,1970,0
+Kyrgyz Republic,Asia,1970,0
+Malawi,Africa,1970,0
+Mexico,Americas,1970,0
+Morocco,Africa,1970,0
+Mozambique,Africa,1970,0
+Myanmar,Asia,1970,0
+Nepal,Asia,1970,0
+Netherlands,Europe,1970,0
+New Zealand,Asia,1970,0
+Nicaragua,Americas,1970,0
+North Korea,Asia,1970,0
+Pakistan,Asia,1970,0
+Panama,Americas,1970,0
+Papua New Guinea,Asia,1970,15
+Peru,Americas,1970,66800
+Philippines,Asia,1970,14
+Poland,Europe,1970,0
+Romania,Europe,1970,0
+Russia,Europe,1970,0
+Rwanda,Africa,1970,0
+Slovenia,Europe,1970,0
+Solomon Islands,Asia,1970,0
+South Africa,Africa,1970,0
+Spain,Europe,1970,0
+St. Lucia,Americas,1970,0
+Sudan,Africa,1970,0
+Tajikistan,Asia,1970,0
+Tanzania,Africa,1970,0
+Thailand,Asia,1970,0
+Tonga,Asia,1970,0
+Trinidad and Tobago,Americas,1970,0
+Turkey,Europe,1970,1090
+Turkmenistan,Asia,1970,0
+Uganda,Africa,1970,0
+United Kingdom,Europe,1970,0
+United States,Americas,1970,0
+Uzbekistan,Asia,1970,0
+Vanuatu,Asia,1970,0
+Venezuela,Americas,1970,0
+Yemen,Asia,1970,0
+Afghanistan,Asia,1971,0
+Albania,Europe,1971,0
+Algeria,Africa,1971,0
+Argentina,Americas,1971,0
+Armenia,Europe,1971,0
+Australia,Asia,1971,0
+Austria,Europe,1971,0
+Azerbaijan,Europe,1971,0
+Bangladesh,Asia,1971,0
+Barbados,Americas,1971,0
+Belgium,Europe,1971,0
+Bolivia,Americas,1971,0
+Brazil,Americas,1971,0
+Bulgaria,Europe,1971,0
+Burundi,Africa,1971,0
+Chile,Americas,1971,85
+China,Asia,1971,0
+Colombia,Americas,1971,0
+"Congo, Dem. Rep.",Africa,1971,0
+"Congo, Rep.",Africa,1971,0
+Costa Rica,Americas,1971,0
+Croatia,Europe,1971,0
+Cuba,Americas,1971,0
+Cyprus,Europe,1971,0
+Dominica,Americas,1971,0
+Dominican Republic,Americas,1971,0
+Ecuador,Americas,1971,0
+Egypt,Africa,1971,0
+El Salvador,Americas,1971,0
+Fiji,Asia,1971,0
+Georgia,Europe,1971,0
+Germany,Europe,1971,0
+Greece,Europe,1971,0
+Guatemala,Americas,1971,0
+Guinea,Africa,1971,0
+Honduras,Americas,1971,0
+Iceland,Europe,1971,0
+India,Asia,1971,0
+Indonesia,Asia,1971,0
+Iran,Asia,1971,0
+Iraq,Asia,1971,0
+Italy,Europe,1971,22
+Japan,Asia,1971,0
+Kazakhstan,Asia,1971,0
+Kenya,Africa,1971,0
+Kyrgyz Republic,Asia,1971,0
+Malawi,Africa,1971,0
+Mexico,Americas,1971,0
+Morocco,Africa,1971,0
+Mozambique,Africa,1971,0
+Myanmar,Asia,1971,0
+Nepal,Asia,1971,0
+Netherlands,Europe,1971,0
+New Zealand,Asia,1971,0
+Nicaragua,Americas,1971,0
+North Korea,Asia,1971,0
+Pakistan,Asia,1971,0
+Panama,Americas,1971,0
+Papua New Guinea,Asia,1971,0
+Peru,Americas,1971,0
+Philippines,Asia,1971,0
+Poland,Europe,1971,0
+Romania,Europe,1971,0
+Russia,Europe,1971,0
+Rwanda,Africa,1971,0
+Slovenia,Europe,1971,0
+Solomon Islands,Asia,1971,0
+South Africa,Africa,1971,0
+Spain,Europe,1971,0
+St. Lucia,Americas,1971,0
+Sudan,Africa,1971,0
+Tajikistan,Asia,1971,0
+Tanzania,Africa,1971,0
+Thailand,Asia,1971,0
+Tonga,Asia,1971,0
+Trinidad and Tobago,Americas,1971,0
+Turkey,Europe,1971,935
+Turkmenistan,Asia,1971,0
+Uganda,Africa,1971,0
+United Kingdom,Europe,1971,0
+United States,Americas,1971,65
+Uzbekistan,Asia,1971,0
+Vanuatu,Asia,1971,0
+Venezuela,Americas,1971,0
+Yemen,Asia,1971,0
+Afghanistan,Asia,1972,0
+Albania,Europe,1972,0
+Algeria,Africa,1972,0
+Argentina,Americas,1972,0
+Armenia,Europe,1972,0
+Australia,Asia,1972,0
+Austria,Europe,1972,0
+Azerbaijan,Europe,1972,0
+Bangladesh,Asia,1972,0
+Barbados,Americas,1972,0
+Belgium,Europe,1972,0
+Bolivia,Americas,1972,0
+Brazil,Americas,1972,0
+Bulgaria,Europe,1972,0
+Burundi,Africa,1972,0
+Chile,Americas,1972,0
+China,Asia,1972,0
+Colombia,Americas,1972,0
+"Congo, Dem. Rep.",Africa,1972,0
+"Congo, Rep.",Africa,1972,0
+Costa Rica,Americas,1972,0
+Croatia,Europe,1972,0
+Cuba,Americas,1972,0
+Cyprus,Europe,1972,0
+Dominica,Americas,1972,0
+Dominican Republic,Americas,1972,0
+Ecuador,Americas,1972,0
+Egypt,Africa,1972,0
+El Salvador,Americas,1972,0
+Fiji,Asia,1972,0
+Georgia,Europe,1972,0
+Germany,Europe,1972,0
+Greece,Europe,1972,0
+Guatemala,Americas,1972,0
+Guinea,Africa,1972,0
+Honduras,Americas,1972,0
+Iceland,Europe,1972,0
+India,Asia,1972,100
+Indonesia,Asia,1972,0
+Iran,Asia,1972,5060
+Iraq,Asia,1972,0
+Italy,Europe,1972,1
+Japan,Asia,1972,0
+Kazakhstan,Asia,1972,0
+Kenya,Africa,1972,0
+Kyrgyz Republic,Asia,1972,0
+Malawi,Africa,1972,0
+Mexico,Americas,1972,0
+Morocco,Africa,1972,0
+Mozambique,Africa,1972,0
+Myanmar,Asia,1972,0
+Nepal,Asia,1972,0
+Netherlands,Europe,1972,0
+New Zealand,Asia,1972,0
+Nicaragua,Americas,1972,10000
+North Korea,Asia,1972,0
+Pakistan,Asia,1972,0
+Panama,Americas,1972,0
+Papua New Guinea,Asia,1972,0
+Peru,Americas,1972,12
+Philippines,Asia,1972,0
+Poland,Europe,1972,0
+Romania,Europe,1972,0
+Russia,Europe,1972,0
+Rwanda,Africa,1972,0
+Slovenia,Europe,1972,0
+Solomon Islands,Asia,1972,0
+South Africa,Africa,1972,0
+Spain,Europe,1972,0
+St. Lucia,Americas,1972,0
+Sudan,Africa,1972,0
+Tajikistan,Asia,1972,0
+Tanzania,Africa,1972,0
+Thailand,Asia,1972,0
+Tonga,Asia,1972,0
+Trinidad and Tobago,Americas,1972,0
+Turkey,Europe,1972,0
+Turkmenistan,Asia,1972,0
+Uganda,Africa,1972,0
+United Kingdom,Europe,1972,0
+United States,Americas,1972,0
+Uzbekistan,Asia,1972,0
+Vanuatu,Asia,1972,0
+Venezuela,Americas,1972,0
+Yemen,Asia,1972,0
+Afghanistan,Asia,1973,0
+Albania,Europe,1973,0
+Algeria,Africa,1973,0
+Argentina,Americas,1973,0
+Armenia,Europe,1973,0
+Australia,Asia,1973,0
+Austria,Europe,1973,0
+Azerbaijan,Europe,1973,0
+Bangladesh,Asia,1973,0
+Barbados,Americas,1973,0
+Belgium,Europe,1973,0
+Bolivia,Americas,1973,0
+Brazil,Americas,1973,0
+Bulgaria,Europe,1973,0
+Burundi,Africa,1973,0
+Chile,Americas,1973,0
+China,Asia,1973,0
+Colombia,Americas,1973,0
+"Congo, Dem. Rep.",Africa,1973,0
+"Congo, Rep.",Africa,1973,0
+Costa Rica,Americas,1973,21
+Croatia,Europe,1973,0
+Cuba,Americas,1973,0
+Cyprus,Europe,1973,0
+Dominica,Americas,1973,0
+Dominican Republic,Americas,1973,0
+Ecuador,Americas,1973,0
+Egypt,Africa,1973,0
+El Salvador,Americas,1973,0
+Fiji,Asia,1973,0
+Georgia,Europe,1973,0
+Germany,Europe,1973,0
+Greece,Europe,1973,0
+Guatemala,Americas,1973,0
+Guinea,Africa,1973,0
+Honduras,Americas,1973,0
+Iceland,Europe,1973,0
+India,Asia,1973,0
+Indonesia,Asia,1973,0
+Iran,Asia,1973,0
+Iraq,Asia,1973,0
+Italy,Europe,1973,0
+Japan,Asia,1973,0
+Kazakhstan,Asia,1973,0
+Kenya,Africa,1973,0
+Kyrgyz Republic,Asia,1973,0
+Malawi,Africa,1973,0
+Mexico,Americas,1973,517
+Morocco,Africa,1973,0
+Mozambique,Africa,1973,0
+Myanmar,Asia,1973,0
+Nepal,Asia,1973,0
+Netherlands,Europe,1973,0
+New Zealand,Asia,1973,0
+Nicaragua,Americas,1973,0
+North Korea,Asia,1973,0
+Pakistan,Asia,1973,0
+Panama,Americas,1973,0
+Papua New Guinea,Asia,1973,0
+Peru,Americas,1973,0
+Philippines,Asia,1973,14
+Poland,Europe,1973,0
+Romania,Europe,1973,0
+Russia,Europe,1973,0
+Rwanda,Africa,1973,0
+Slovenia,Europe,1973,0
+Solomon Islands,Asia,1973,0
+South Africa,Africa,1973,0
+Spain,Europe,1973,0
+St. Lucia,Americas,1973,0
+Sudan,Africa,1973,0
+Tajikistan,Asia,1973,0
+Tanzania,Africa,1973,0
+Thailand,Asia,1973,0
+Tonga,Asia,1973,0
+Trinidad and Tobago,Americas,1973,0
+Turkey,Europe,1973,0
+Turkmenistan,Asia,1973,0
+Uganda,Africa,1973,0
+United Kingdom,Europe,1973,0
+United States,Americas,1973,0
+Uzbekistan,Asia,1973,0
+Vanuatu,Asia,1973,0
+Venezuela,Americas,1973,0
+Yemen,Asia,1973,0
+Afghanistan,Asia,1974,0
+Albania,Europe,1974,0
+Algeria,Africa,1974,0
+Argentina,Americas,1974,0
+Armenia,Europe,1974,0
+Australia,Asia,1974,0
+Austria,Europe,1974,0
+Azerbaijan,Europe,1974,0
+Bangladesh,Asia,1974,0
+Barbados,Americas,1974,0
+Belgium,Europe,1974,0
+Bolivia,Americas,1974,0
+Brazil,Americas,1974,0
+Bulgaria,Europe,1974,0
+Burundi,Africa,1974,0
+Chile,Americas,1974,0
+China,Asia,1974,20000
+Colombia,Americas,1974,0
+"Congo, Dem. Rep.",Africa,1974,0
+"Congo, Rep.",Africa,1974,0
+Costa Rica,Americas,1974,0
+Croatia,Europe,1974,0
+Cuba,Americas,1974,0
+Cyprus,Europe,1974,0
+Dominica,Americas,1974,0
+Dominican Republic,Americas,1974,0
+Ecuador,Americas,1974,0
+Egypt,Africa,1974,0
+El Salvador,Americas,1974,0
+Fiji,Asia,1974,0
+Georgia,Europe,1974,0
+Germany,Europe,1974,0
+Greece,Europe,1974,0
+Guatemala,Americas,1974,0
+Guinea,Africa,1974,0
+Honduras,Americas,1974,0
+Iceland,Europe,1974,0
+India,Asia,1974,0
+Indonesia,Asia,1974,0
+Iran,Asia,1974,0
+Iraq,Asia,1974,0
+Italy,Europe,1974,0
+Japan,Asia,1974,30
+Kazakhstan,Asia,1974,0
+Kenya,Africa,1974,0
+Kyrgyz Republic,Asia,1974,0
+Malawi,Africa,1974,0
+Mexico,Americas,1974,0
+Morocco,Africa,1974,0
+Mozambique,Africa,1974,0
+Myanmar,Asia,1974,0
+Nepal,Asia,1974,0
+Netherlands,Europe,1974,0
+New Zealand,Asia,1974,0
+Nicaragua,Americas,1974,0
+North Korea,Asia,1974,0
+Pakistan,Asia,1974,4700
+Panama,Americas,1974,0
+Papua New Guinea,Asia,1974,0
+Peru,Americas,1974,78
+Philippines,Asia,1974,0
+Poland,Europe,1974,0
+Romania,Europe,1974,0
+Russia,Europe,1974,0
+Rwanda,Africa,1974,0
+Slovenia,Europe,1974,0
+Solomon Islands,Asia,1974,0
+South Africa,Africa,1974,0
+Spain,Europe,1974,0
+St. Lucia,Americas,1974,0
+Sudan,Africa,1974,0
+Tajikistan,Asia,1974,0
+Tanzania,Africa,1974,0
+Thailand,Asia,1974,0
+Tonga,Asia,1974,0
+Trinidad and Tobago,Americas,1974,0
+Turkey,Europe,1974,0
+Turkmenistan,Asia,1974,0
+Uganda,Africa,1974,0
+United Kingdom,Europe,1974,0
+United States,Americas,1974,0
+Uzbekistan,Asia,1974,0
+Vanuatu,Asia,1974,0
+Venezuela,Americas,1974,0
+Yemen,Asia,1974,0
+Afghanistan,Asia,1975,0
+Albania,Europe,1975,0
+Algeria,Africa,1975,0
+Argentina,Americas,1975,0
+Armenia,Europe,1975,0
+Australia,Asia,1975,0
+Austria,Europe,1975,0
+Azerbaijan,Europe,1975,0
+Bangladesh,Asia,1975,0
+Barbados,Americas,1975,0
+Belgium,Europe,1975,0
+Bolivia,Americas,1975,0
+Brazil,Americas,1975,0
+Bulgaria,Europe,1975,0
+Burundi,Africa,1975,0
+Chile,Americas,1975,0
+China,Asia,1975,10000
+Colombia,Americas,1975,0
+"Congo, Dem. Rep.",Africa,1975,0
+"Congo, Rep.",Africa,1975,0
+Costa Rica,Americas,1975,0
+Croatia,Europe,1975,0
+Cuba,Americas,1975,0
+Cyprus,Europe,1975,0
+Dominica,Americas,1975,0
+Dominican Republic,Americas,1975,0
+Ecuador,Americas,1975,0
+Egypt,Africa,1975,0
+El Salvador,Americas,1975,0
+Fiji,Asia,1975,0
+Georgia,Europe,1975,0
+Germany,Europe,1975,0
+Greece,Europe,1975,0
+Guatemala,Americas,1975,0
+Guinea,Africa,1975,0
+Honduras,Americas,1975,0
+Iceland,Europe,1975,0
+India,Asia,1975,47
+Indonesia,Asia,1975,0
+Iran,Asia,1975,0
+Iraq,Asia,1975,0
+Italy,Europe,1975,0
+Japan,Asia,1975,0
+Kazakhstan,Asia,1975,0
+Kenya,Africa,1975,0
+Kyrgyz Republic,Asia,1975,0
+Malawi,Africa,1975,0
+Mexico,Americas,1975,0
+Morocco,Africa,1975,0
+Mozambique,Africa,1975,0
+Myanmar,Asia,1975,0
+Nepal,Asia,1975,0
+Netherlands,Europe,1975,0
+New Zealand,Asia,1975,0
+Nicaragua,Americas,1975,0
+North Korea,Asia,1975,0
+Pakistan,Asia,1975,0
+Panama,Americas,1975,0
+Papua New Guinea,Asia,1975,0
+Peru,Americas,1975,0
+Philippines,Asia,1975,0
+Poland,Europe,1975,0
+Romania,Europe,1975,0
+Russia,Europe,1975,0
+Rwanda,Africa,1975,0
+Slovenia,Europe,1975,0
+Solomon Islands,Asia,1975,0
+South Africa,Africa,1975,0
+Spain,Europe,1975,0
+St. Lucia,Americas,1975,0
+Sudan,Africa,1975,0
+Tajikistan,Asia,1975,0
+Tanzania,Africa,1975,0
+Thailand,Asia,1975,0
+Tonga,Asia,1975,0
+Trinidad and Tobago,Americas,1975,0
+Turkey,Europe,1975,2380
+Turkmenistan,Asia,1975,0
+Uganda,Africa,1975,0
+United Kingdom,Europe,1975,0
+United States,Americas,1975,0
+Uzbekistan,Asia,1975,0
+Vanuatu,Asia,1975,0
+Venezuela,Americas,1975,0
+Yemen,Asia,1975,0
+Afghanistan,Asia,1976,50
+Albania,Europe,1976,0
+Algeria,Africa,1976,0
+Argentina,Americas,1976,0
+Armenia,Europe,1976,0
+Australia,Asia,1976,0
+Austria,Europe,1976,0
+Azerbaijan,Europe,1976,0
+Bangladesh,Asia,1976,0
+Barbados,Americas,1976,0
+Belgium,Europe,1976,0
+Bolivia,Americas,1976,0
+Brazil,Americas,1976,0
+Bulgaria,Europe,1976,0
+Burundi,Africa,1976,0
+Chile,Americas,1976,0
+China,Asia,1976,242000
+Colombia,Americas,1976,0
+"Congo, Dem. Rep.",Africa,1976,0
+"Congo, Rep.",Africa,1976,0
+Costa Rica,Americas,1976,0
+Croatia,Europe,1976,0
+Cuba,Americas,1976,1
+Cyprus,Europe,1976,0
+Dominica,Americas,1976,0
+Dominican Republic,Americas,1976,0
+Ecuador,Americas,1976,20
+Egypt,Africa,1976,0
+El Salvador,Americas,1976,0
+Fiji,Asia,1976,0
+Georgia,Europe,1976,0
+Germany,Europe,1976,0
+Greece,Europe,1976,0
+Guatemala,Americas,1976,23000
+Guinea,Africa,1976,0
+Honduras,Americas,1976,0
+Iceland,Europe,1976,1
+India,Asia,1976,0
+Indonesia,Asia,1976,1130
+Iran,Asia,1976,16
+Iraq,Asia,1976,0
+Italy,Europe,1976,934
+Japan,Asia,1976,0
+Kazakhstan,Asia,1976,0
+Kenya,Africa,1976,0
+Kyrgyz Republic,Asia,1976,0
+Malawi,Africa,1976,0
+Mexico,Americas,1976,0
+Morocco,Africa,1976,0
+Mozambique,Africa,1976,0
+Myanmar,Asia,1976,0
+Nepal,Asia,1976,0
+Netherlands,Europe,1976,0
+New Zealand,Asia,1976,0
+Nicaragua,Americas,1976,0
+North Korea,Asia,1976,0
+Pakistan,Asia,1976,0
+Panama,Americas,1976,0
+Papua New Guinea,Asia,1976,0
+Peru,Americas,1976,0
+Philippines,Asia,1976,6000
+Poland,Europe,1976,0
+Romania,Europe,1976,0
+Russia,Europe,1976,0
+Rwanda,Africa,1976,0
+Slovenia,Europe,1976,0
+Solomon Islands,Asia,1976,0
+South Africa,Africa,1976,0
+Spain,Europe,1976,0
+St. Lucia,Americas,1976,0
+Sudan,Africa,1976,0
+Tajikistan,Asia,1976,0
+Tanzania,Africa,1976,0
+Thailand,Asia,1976,0
+Tonga,Asia,1976,0
+Trinidad and Tobago,Americas,1976,0
+Turkey,Europe,1976,3850
+Turkmenistan,Asia,1976,0
+Uganda,Africa,1976,0
+United Kingdom,Europe,1976,0
+United States,Americas,1976,0
+Uzbekistan,Asia,1976,0
+Vanuatu,Asia,1976,0
+Venezuela,Americas,1976,0
+Yemen,Asia,1976,0
+Afghanistan,Asia,1977,0
+Albania,Europe,1977,0
+Algeria,Africa,1977,0
+Argentina,Americas,1977,70
+Armenia,Europe,1977,0
+Australia,Asia,1977,0
+Austria,Europe,1977,0
+Azerbaijan,Europe,1977,0
+Bangladesh,Asia,1977,0
+Barbados,Americas,1977,0
+Belgium,Europe,1977,0
+Bolivia,Americas,1977,0
+Brazil,Americas,1977,0
+Bulgaria,Europe,1977,20
+Burundi,Africa,1977,0
+Chile,Americas,1977,0
+China,Asia,1977,0
+Colombia,Americas,1977,0
+"Congo, Dem. Rep.",Africa,1977,0
+"Congo, Rep.",Africa,1977,0
+Costa Rica,Americas,1977,0
+Croatia,Europe,1977,0
+Cuba,Americas,1977,0
+Cyprus,Europe,1977,0
+Dominica,Americas,1977,0
+Dominican Republic,Americas,1977,0
+Ecuador,Americas,1977,0
+Egypt,Africa,1977,0
+El Salvador,Americas,1977,0
+Fiji,Asia,1977,0
+Georgia,Europe,1977,0
+Germany,Europe,1977,0
+Greece,Europe,1977,0
+Guatemala,Americas,1977,0
+Guinea,Africa,1977,0
+Honduras,Americas,1977,0
+Iceland,Europe,1977,0
+India,Asia,1977,0
+Indonesia,Asia,1977,187
+Iran,Asia,1977,1110
+Iraq,Asia,1977,0
+Italy,Europe,1977,0
+Japan,Asia,1977,0
+Kazakhstan,Asia,1977,0
+Kenya,Africa,1977,0
+Kyrgyz Republic,Asia,1977,0
+Malawi,Africa,1977,0
+Mexico,Americas,1977,0
+Morocco,Africa,1977,0
+Mozambique,Africa,1977,0
+Myanmar,Asia,1977,0
+Nepal,Asia,1977,0
+Netherlands,Europe,1977,0
+New Zealand,Asia,1977,0
+Nicaragua,Americas,1977,0
+North Korea,Asia,1977,0
+Pakistan,Asia,1977,0
+Panama,Americas,1977,0
+Papua New Guinea,Asia,1977,0
+Peru,Americas,1977,0
+Philippines,Asia,1977,1
+Poland,Europe,1977,0
+Romania,Europe,1977,1640
+Russia,Europe,1977,0
+Rwanda,Africa,1977,0
+Slovenia,Europe,1977,0
+Solomon Islands,Asia,1977,34
+South Africa,Africa,1977,0
+Spain,Europe,1977,0
+St. Lucia,Americas,1977,0
+Sudan,Africa,1977,0
+Tajikistan,Asia,1977,0
+Tanzania,Africa,1977,0
+Thailand,Asia,1977,0
+Tonga,Asia,1977,1
+Trinidad and Tobago,Americas,1977,0
+Turkey,Europe,1977,30
+Turkmenistan,Asia,1977,0
+Uganda,Africa,1977,0
+United Kingdom,Europe,1977,0
+United States,Americas,1977,0
+Uzbekistan,Asia,1977,0
+Vanuatu,Asia,1977,0
+Venezuela,Americas,1977,0
+Yemen,Asia,1977,0
+Afghanistan,Asia,1978,0
+Albania,Europe,1978,0
+Algeria,Africa,1978,0
+Argentina,Americas,1978,0
+Armenia,Europe,1978,0
+Australia,Asia,1978,0
+Austria,Europe,1978,0
+Azerbaijan,Europe,1978,0
+Bangladesh,Asia,1978,0
+Barbados,Americas,1978,0
+Belgium,Europe,1978,0
+Bolivia,Americas,1978,0
+Brazil,Americas,1978,0
+Bulgaria,Europe,1978,0
+Burundi,Africa,1978,0
+Chile,Americas,1978,0
+China,Asia,1978,0
+Colombia,Americas,1978,0
+"Congo, Dem. Rep.",Africa,1978,0
+"Congo, Rep.",Africa,1978,0
+Costa Rica,Americas,1978,0
+Croatia,Europe,1978,0
+Cuba,Americas,1978,0
+Cyprus,Europe,1978,0
+Dominica,Americas,1978,0
+Dominican Republic,Americas,1978,0
+Ecuador,Americas,1978,0
+Egypt,Africa,1978,0
+El Salvador,Americas,1978,0
+Fiji,Asia,1978,0
+Georgia,Europe,1978,0
+Germany,Europe,1978,0
+Greece,Europe,1978,50
+Guatemala,Americas,1978,0
+Guinea,Africa,1978,0
+Honduras,Americas,1978,0
+Iceland,Europe,1978,0
+India,Asia,1978,0
+Indonesia,Asia,1978,0
+Iran,Asia,1978,25000
+Iraq,Asia,1978,0
+Italy,Europe,1978,5
+Japan,Asia,1978,49
+Kazakhstan,Asia,1978,0
+Kenya,Africa,1978,0
+Kyrgyz Republic,Asia,1978,0
+Malawi,Africa,1978,0
+Mexico,Americas,1978,9
+Morocco,Africa,1978,0
+Mozambique,Africa,1978,0
+Myanmar,Asia,1978,0
+Nepal,Asia,1978,0
+Netherlands,Europe,1978,0
+New Zealand,Asia,1978,0
+Nicaragua,Americas,1978,0
+North Korea,Asia,1978,0
+Pakistan,Asia,1978,0
+Panama,Americas,1978,0
+Papua New Guinea,Asia,1978,0
+Peru,Americas,1978,0
+Philippines,Asia,1978,0
+Poland,Europe,1978,0
+Romania,Europe,1978,0
+Russia,Europe,1978,0
+Rwanda,Africa,1978,0
+Slovenia,Europe,1978,0
+Solomon Islands,Asia,1978,0
+South Africa,Africa,1978,0
+Spain,Europe,1978,0
+St. Lucia,Americas,1978,0
+Sudan,Africa,1978,0
+Tajikistan,Asia,1978,0
+Tanzania,Africa,1978,0
+Thailand,Asia,1978,0
+Tonga,Asia,1978,0
+Trinidad and Tobago,Americas,1978,0
+Turkey,Europe,1978,0
+Turkmenistan,Asia,1978,0
+Uganda,Africa,1978,0
+United Kingdom,Europe,1978,0
+United States,Americas,1978,0
+Uzbekistan,Asia,1978,0
+Vanuatu,Asia,1978,0
+Venezuela,Americas,1978,0
+Yemen,Asia,1978,0
+Afghanistan,Asia,1979,0
+Albania,Europe,1979,35
+Algeria,Africa,1979,0
+Argentina,Americas,1979,0
+Armenia,Europe,1979,0
+Australia,Asia,1979,0
+Austria,Europe,1979,0
+Azerbaijan,Europe,1979,0
+Bangladesh,Asia,1979,0
+Barbados,Americas,1979,0
+Belgium,Europe,1979,0
+Bolivia,Americas,1979,0
+Brazil,Americas,1979,0
+Bulgaria,Europe,1979,0
+Burundi,Africa,1979,0
+Chile,Americas,1979,0
+China,Asia,1979,82
+Colombia,Americas,1979,360
+"Congo, Dem. Rep.",Africa,1979,0
+"Congo, Rep.",Africa,1979,0
+Costa Rica,Americas,1979,0
+Croatia,Europe,1979,0
+Cuba,Americas,1979,0
+Cyprus,Europe,1979,0
+Dominica,Americas,1979,0
+Dominican Republic,Americas,1979,0
+Ecuador,Americas,1979,0
+Egypt,Africa,1979,0
+El Salvador,Americas,1979,0
+Fiji,Asia,1979,0
+Georgia,Europe,1979,0
+Germany,Europe,1979,0
+Greece,Europe,1979,48
+Guatemala,Americas,1979,0
+Guinea,Africa,1979,0
+Honduras,Americas,1979,0
+Iceland,Europe,1979,0
+India,Asia,1979,0
+Indonesia,Asia,1979,99
+Iran,Asia,1979,565
+Iraq,Asia,1979,0
+Italy,Europe,1979,5
+Japan,Asia,1979,27
+Kazakhstan,Asia,1979,0
+Kenya,Africa,1979,0
+Kyrgyz Republic,Asia,1979,0
+Malawi,Africa,1979,0
+Mexico,Americas,1979,5
+Morocco,Africa,1979,0
+Mozambique,Africa,1979,0
+Myanmar,Asia,1979,0
+Nepal,Asia,1979,0
+Netherlands,Europe,1979,0
+New Zealand,Asia,1979,0
+Nicaragua,Americas,1979,0
+North Korea,Asia,1979,0
+Pakistan,Asia,1979,0
+Panama,Americas,1979,0
+Papua New Guinea,Asia,1979,0
+Peru,Americas,1979,13
+Philippines,Asia,1979,0
+Poland,Europe,1979,0
+Romania,Europe,1979,0
+Russia,Europe,1979,0
+Rwanda,Africa,1979,0
+Slovenia,Europe,1979,0
+Solomon Islands,Asia,1979,0
+South Africa,Africa,1979,0
+Spain,Europe,1979,0
+St. Lucia,Americas,1979,0
+Sudan,Africa,1979,0
+Tajikistan,Asia,1979,0
+Tanzania,Africa,1979,0
+Thailand,Asia,1979,0
+Tonga,Asia,1979,0
+Trinidad and Tobago,Americas,1979,0
+Turkey,Europe,1979,0
+Turkmenistan,Asia,1979,0
+Uganda,Africa,1979,0
+United Kingdom,Europe,1979,0
+United States,Americas,1979,0
+Uzbekistan,Asia,1979,0
+Vanuatu,Asia,1979,0
+Venezuela,Americas,1979,0
+Yemen,Asia,1979,0
+Afghanistan,Asia,1980,0
+Albania,Europe,1980,0
+Algeria,Africa,1980,2640
+Argentina,Americas,1980,0
+Armenia,Europe,1980,0
+Australia,Asia,1980,0
+Austria,Europe,1980,0
+Azerbaijan,Europe,1980,0
+Bangladesh,Asia,1980,0
+Barbados,Americas,1980,0
+Belgium,Europe,1980,0
+Bolivia,Americas,1980,0
+Brazil,Americas,1980,0
+Bulgaria,Europe,1980,0
+Burundi,Africa,1980,0
+Chile,Americas,1980,0
+China,Asia,1980,0
+Colombia,Americas,1980,0
+"Congo, Dem. Rep.",Africa,1980,0
+"Congo, Rep.",Africa,1980,0
+Costa Rica,Americas,1980,0
+Croatia,Europe,1980,0
+Cuba,Americas,1980,0
+Cyprus,Europe,1980,0
+Dominica,Americas,1980,0
+Dominican Republic,Americas,1980,0
+Ecuador,Americas,1980,8
+Egypt,Africa,1980,0
+El Salvador,Americas,1980,0
+Fiji,Asia,1980,0
+Georgia,Europe,1980,0
+Germany,Europe,1980,0
+Greece,Europe,1980,1
+Guatemala,Americas,1980,0
+Guinea,Africa,1980,0
+Honduras,Americas,1980,2
+Iceland,Europe,1980,0
+India,Asia,1980,13
+Indonesia,Asia,1980,0
+Iran,Asia,1980,50
+Iraq,Asia,1980,0
+Italy,Europe,1980,4690
+Japan,Asia,1980,2
+Kazakhstan,Asia,1980,0
+Kenya,Africa,1980,0
+Kyrgyz Republic,Asia,1980,0
+Malawi,Africa,1980,0
+Mexico,Americas,1980,67
+Morocco,Africa,1980,0
+Mozambique,Africa,1980,0
+Myanmar,Asia,1980,0
+Nepal,Asia,1980,100
+Netherlands,Europe,1980,0
+New Zealand,Asia,1980,0
+Nicaragua,Americas,1980,0
+North Korea,Asia,1980,0
+Pakistan,Asia,1980,0
+Panama,Americas,1980,0
+Papua New Guinea,Asia,1980,0
+Peru,Americas,1980,7
+Philippines,Asia,1980,0
+Poland,Europe,1980,0
+Romania,Europe,1980,0
+Russia,Europe,1980,0
+Rwanda,Africa,1980,0
+Slovenia,Europe,1980,0
+Solomon Islands,Asia,1980,0
+South Africa,Africa,1980,0
+Spain,Europe,1980,0
+St. Lucia,Americas,1980,0
+Sudan,Africa,1980,0
+Tajikistan,Asia,1980,0
+Tanzania,Africa,1980,0
+Thailand,Asia,1980,0
+Tonga,Asia,1980,0
+Trinidad and Tobago,Americas,1980,0
+Turkey,Europe,1980,0
+Turkmenistan,Asia,1980,0
+Uganda,Africa,1980,0
+United Kingdom,Europe,1980,0
+United States,Americas,1980,0
+Uzbekistan,Asia,1980,0
+Vanuatu,Asia,1980,0
+Venezuela,Americas,1980,0
+Yemen,Asia,1980,0
+Afghanistan,Asia,1981,0
+Albania,Europe,1981,0
+Algeria,Africa,1981,0
+Argentina,Americas,1981,0
+Armenia,Europe,1981,0
+Australia,Asia,1981,0
+Austria,Europe,1981,0
+Azerbaijan,Europe,1981,0
+Bangladesh,Asia,1981,0
+Barbados,Americas,1981,0
+Belgium,Europe,1981,0
+Bolivia,Americas,1981,0
+Brazil,Americas,1981,0
+Bulgaria,Europe,1981,0
+Burundi,Africa,1981,0
+Chile,Americas,1981,0
+China,Asia,1981,150
+Colombia,Americas,1981,10
+"Congo, Dem. Rep.",Africa,1981,0
+"Congo, Rep.",Africa,1981,0
+Costa Rica,Americas,1981,0
+Croatia,Europe,1981,0
+Cuba,Americas,1981,0
+Cyprus,Europe,1981,0
+Dominica,Americas,1981,0
+Dominican Republic,Americas,1981,0
+Ecuador,Americas,1981,0
+Egypt,Africa,1981,0
+El Salvador,Americas,1981,0
+Fiji,Asia,1981,0
+Georgia,Europe,1981,0
+Germany,Europe,1981,0
+Greece,Europe,1981,24
+Guatemala,Americas,1981,0
+Guinea,Africa,1981,0
+Honduras,Americas,1981,0
+Iceland,Europe,1981,0
+India,Asia,1981,212
+Indonesia,Asia,1981,306
+Iran,Asia,1981,3200
+Iraq,Asia,1981,0
+Italy,Europe,1981,12
+Japan,Asia,1981,0
+Kazakhstan,Asia,1981,0
+Kenya,Africa,1981,0
+Kyrgyz Republic,Asia,1981,0
+Malawi,Africa,1981,0
+Mexico,Americas,1981,3
+Morocco,Africa,1981,0
+Mozambique,Africa,1981,0
+Myanmar,Asia,1981,0
+Nepal,Asia,1981,0
+Netherlands,Europe,1981,0
+New Zealand,Asia,1981,0
+Nicaragua,Americas,1981,0
+North Korea,Asia,1981,0
+Pakistan,Asia,1981,256
+Panama,Americas,1981,0
+Papua New Guinea,Asia,1981,0
+Peru,Americas,1981,18
+Philippines,Asia,1981,0
+Poland,Europe,1981,0
+Romania,Europe,1981,0
+Russia,Europe,1981,0
+Rwanda,Africa,1981,0
+Slovenia,Europe,1981,0
+Solomon Islands,Asia,1981,0
+South Africa,Africa,1981,0
+Spain,Europe,1981,0
+St. Lucia,Americas,1981,0
+Sudan,Africa,1981,0
+Tajikistan,Asia,1981,0
+Tanzania,Africa,1981,0
+Thailand,Asia,1981,0
+Tonga,Asia,1981,0
+Trinidad and Tobago,Americas,1981,0
+Turkey,Europe,1981,0
+Turkmenistan,Asia,1981,0
+Uganda,Africa,1981,0
+United Kingdom,Europe,1981,0
+United States,Americas,1981,0
+Uzbekistan,Asia,1981,0
+Vanuatu,Asia,1981,0
+Venezuela,Americas,1981,15
+Yemen,Asia,1981,0
+Afghanistan,Asia,1982,500
+Albania,Europe,1982,1
+Algeria,Africa,1982,0
+Argentina,Americas,1982,0
+Armenia,Europe,1982,0
+Australia,Asia,1982,0
+Austria,Europe,1982,0
+Azerbaijan,Europe,1982,0
+Bangladesh,Asia,1982,0
+Barbados,Americas,1982,0
+Belgium,Europe,1982,0
+Bolivia,Americas,1982,20
+Brazil,Americas,1982,0
+Bulgaria,Europe,1982,0
+Burundi,Africa,1982,0
+Chile,Americas,1982,0
+China,Asia,1982,10
+Colombia,Americas,1982,0
+"Congo, Dem. Rep.",Africa,1982,0
+"Congo, Rep.",Africa,1982,0
+Costa Rica,Americas,1982,0
+Croatia,Europe,1982,0
+Cuba,Americas,1982,0
+Cyprus,Europe,1982,0
+Dominica,Americas,1982,0
+Dominican Republic,Americas,1982,0
+Ecuador,Americas,1982,0
+Egypt,Africa,1982,0
+El Salvador,Americas,1982,20
+Fiji,Asia,1982,0
+Georgia,Europe,1982,0
+Germany,Europe,1982,0
+Greece,Europe,1982,0
+Guatemala,Americas,1982,20
+Guinea,Africa,1982,0
+Honduras,Americas,1982,0
+Iceland,Europe,1982,0
+India,Asia,1982,0
+Indonesia,Asia,1982,13
+Iran,Asia,1982,0
+Iraq,Asia,1982,0
+Italy,Europe,1982,0
+Japan,Asia,1982,0
+Kazakhstan,Asia,1982,0
+Kenya,Africa,1982,0
+Kyrgyz Republic,Asia,1982,0
+Malawi,Africa,1982,0
+Mexico,Americas,1982,9
+Morocco,Africa,1982,0
+Mozambique,Africa,1982,0
+Myanmar,Asia,1982,0
+Nepal,Asia,1982,0
+Netherlands,Europe,1982,0
+New Zealand,Asia,1982,0
+Nicaragua,Americas,1982,0
+North Korea,Asia,1982,0
+Pakistan,Asia,1982,0
+Panama,Americas,1982,0
+Papua New Guinea,Asia,1982,0
+Peru,Americas,1982,3
+Philippines,Asia,1982,0
+Poland,Europe,1982,0
+Romania,Europe,1982,0
+Russia,Europe,1982,0
+Rwanda,Africa,1982,0
+Slovenia,Europe,1982,0
+Solomon Islands,Asia,1982,0
+South Africa,Africa,1982,17
+Spain,Europe,1982,0
+St. Lucia,Americas,1982,0
+Sudan,Africa,1982,0
+Tajikistan,Asia,1982,0
+Tanzania,Africa,1982,0
+Thailand,Asia,1982,0
+Tonga,Asia,1982,0
+Trinidad and Tobago,Americas,1982,0
+Turkey,Europe,1982,0
+Turkmenistan,Asia,1982,0
+Uganda,Africa,1982,0
+United Kingdom,Europe,1982,0
+United States,Americas,1982,0
+Uzbekistan,Asia,1982,0
+Vanuatu,Asia,1982,0
+Venezuela,Americas,1982,0
+Yemen,Asia,1982,0
+Afghanistan,Asia,1983,12
+Albania,Europe,1983,0
+Algeria,Africa,1983,0
+Argentina,Americas,1983,0
+Armenia,Europe,1983,0
+Australia,Asia,1983,0
+Austria,Europe,1983,0
+Azerbaijan,Europe,1983,0
+Bangladesh,Asia,1983,0
+Barbados,Americas,1983,0
+Belgium,Europe,1983,2
+Bolivia,Americas,1983,0
+Brazil,Americas,1983,0
+Bulgaria,Europe,1983,0
+Burundi,Africa,1983,0
+Chile,Americas,1983,4
+China,Asia,1983,34
+Colombia,Americas,1983,250
+"Congo, Dem. Rep.",Africa,1983,0
+"Congo, Rep.",Africa,1983,0
+Costa Rica,Americas,1983,12
+Croatia,Europe,1983,0
+Cuba,Americas,1983,0
+Cyprus,Europe,1983,0
+Dominica,Americas,1983,0
+Dominican Republic,Americas,1983,0
+Ecuador,Americas,1983,0
+Egypt,Africa,1983,0
+El Salvador,Americas,1983,0
+Fiji,Asia,1983,0
+Georgia,Europe,1983,0
+Germany,Europe,1983,0
+Greece,Europe,1983,0
+Guatemala,Americas,1983,0
+Guinea,Africa,1983,275
+Honduras,Americas,1983,0
+Iceland,Europe,1983,0
+India,Asia,1983,0
+Indonesia,Asia,1983,0
+Iran,Asia,1983,33
+Iraq,Asia,1983,0
+Italy,Europe,1983,0
+Japan,Asia,1983,103
+Kazakhstan,Asia,1983,0
+Kenya,Africa,1983,0
+Kyrgyz Republic,Asia,1983,0
+Malawi,Africa,1983,0
+Mexico,Americas,1983,0
+Morocco,Africa,1983,0
+Mozambique,Africa,1983,0
+Myanmar,Asia,1983,0
+Nepal,Asia,1983,0
+Netherlands,Europe,1983,0
+New Zealand,Asia,1983,0
+Nicaragua,Americas,1983,0
+North Korea,Asia,1983,0
+Pakistan,Asia,1983,24
+Panama,Americas,1983,0
+Papua New Guinea,Asia,1983,10
+Peru,Americas,1983,10
+Philippines,Asia,1983,19
+Poland,Europe,1983,0
+Romania,Europe,1983,0
+Russia,Europe,1983,0
+Rwanda,Africa,1983,0
+Slovenia,Europe,1983,0
+Solomon Islands,Asia,1983,0
+South Africa,Africa,1983,0
+Spain,Europe,1983,0
+St. Lucia,Americas,1983,0
+Sudan,Africa,1983,0
+Tajikistan,Asia,1983,0
+Tanzania,Africa,1983,0
+Thailand,Asia,1983,0
+Tonga,Asia,1983,0
+Trinidad and Tobago,Americas,1983,0
+Turkey,Europe,1983,1350
+Turkmenistan,Asia,1983,0
+Uganda,Africa,1983,0
+United Kingdom,Europe,1983,0
+United States,Americas,1983,2
+Uzbekistan,Asia,1983,0
+Vanuatu,Asia,1983,0
+Venezuela,Americas,1983,0
+Yemen,Asia,1983,0
+Afghanistan,Asia,1984,1
+Albania,Europe,1984,0
+Algeria,Africa,1984,0
+Argentina,Americas,1984,0
+Armenia,Europe,1984,0
+Australia,Asia,1984,0
+Austria,Europe,1984,0
+Azerbaijan,Europe,1984,0
+Bangladesh,Asia,1984,0
+Barbados,Americas,1984,0
+Belgium,Europe,1984,0
+Bolivia,Americas,1984,0
+Brazil,Americas,1984,0
+Bulgaria,Europe,1984,0
+Burundi,Africa,1984,0
+Chile,Americas,1984,0
+China,Asia,1984,0
+Colombia,Americas,1984,0
+"Congo, Dem. Rep.",Africa,1984,0
+"Congo, Rep.",Africa,1984,0
+Costa Rica,Americas,1984,0
+Croatia,Europe,1984,0
+Cuba,Americas,1984,0
+Cyprus,Europe,1984,0
+Dominica,Americas,1984,0
+Dominican Republic,Americas,1984,0
+Ecuador,Americas,1984,0
+Egypt,Africa,1984,0
+El Salvador,Americas,1984,0
+Fiji,Asia,1984,0
+Georgia,Europe,1984,0
+Germany,Europe,1984,0
+Greece,Europe,1984,0
+Guatemala,Americas,1984,0
+Guinea,Africa,1984,0
+Honduras,Americas,1984,0
+Iceland,Europe,1984,0
+India,Asia,1984,20
+Indonesia,Asia,1984,2
+Iran,Asia,1984,0
+Iraq,Asia,1984,0
+Italy,Europe,1984,4
+Japan,Asia,1984,20
+Kazakhstan,Asia,1984,0
+Kenya,Africa,1984,0
+Kyrgyz Republic,Asia,1984,0
+Malawi,Africa,1984,0
+Mexico,Americas,1984,0
+Morocco,Africa,1984,0
+Mozambique,Africa,1984,0
+Myanmar,Asia,1984,0
+Nepal,Asia,1984,0
+Netherlands,Europe,1984,0
+New Zealand,Asia,1984,0
+Nicaragua,Americas,1984,0
+North Korea,Asia,1984,0
+Pakistan,Asia,1984,4
+Panama,Americas,1984,0
+Papua New Guinea,Asia,1984,0
+Peru,Americas,1984,0
+Philippines,Asia,1984,0
+Poland,Europe,1984,0
+Romania,Europe,1984,0
+Russia,Europe,1984,0
+Rwanda,Africa,1984,0
+Slovenia,Europe,1984,0
+Solomon Islands,Asia,1984,0
+South Africa,Africa,1984,0
+Spain,Europe,1984,0
+St. Lucia,Americas,1984,0
+Sudan,Africa,1984,0
+Tajikistan,Asia,1984,0
+Tanzania,Africa,1984,0
+Thailand,Asia,1984,0
+Tonga,Asia,1984,0
+Trinidad and Tobago,Americas,1984,0
+Turkey,Europe,1984,6
+Turkmenistan,Asia,1984,0
+Uganda,Africa,1984,0
+United Kingdom,Europe,1984,0
+United States,Americas,1984,0
+Uzbekistan,Asia,1984,0
+Vanuatu,Asia,1984,0
+Venezuela,Americas,1984,0
+Yemen,Asia,1984,0
+Afghanistan,Asia,1985,0
+Albania,Europe,1985,0
+Algeria,Africa,1985,30
+Argentina,Americas,1985,6
+Armenia,Europe,1985,0
+Australia,Asia,1985,0
+Austria,Europe,1985,0
+Azerbaijan,Europe,1985,0
+Bangladesh,Asia,1985,0
+Barbados,Americas,1985,0
+Belgium,Europe,1985,0
+Bolivia,Americas,1985,0
+Brazil,Americas,1985,0
+Bulgaria,Europe,1985,0
+Burundi,Africa,1985,0
+Chile,Americas,1985,180
+China,Asia,1985,90
+Colombia,Americas,1985,0
+"Congo, Dem. Rep.",Africa,1985,0
+"Congo, Rep.",Africa,1985,0
+Costa Rica,Americas,1985,0
+Croatia,Europe,1985,0
+Cuba,Americas,1985,0
+Cyprus,Europe,1985,0
+Dominica,Americas,1985,0
+Dominican Republic,Americas,1985,0
+Ecuador,Americas,1985,0
+Egypt,Africa,1985,0
+El Salvador,Americas,1985,0
+Fiji,Asia,1985,0
+Georgia,Europe,1985,0
+Germany,Europe,1985,0
+Greece,Europe,1985,0
+Guatemala,Americas,1985,0
+Guinea,Africa,1985,0
+Honduras,Americas,1985,0
+Iceland,Europe,1985,0
+India,Asia,1985,0
+Indonesia,Asia,1985,10
+Iran,Asia,1985,1
+Iraq,Asia,1985,0
+Italy,Europe,1985,0
+Japan,Asia,1985,0
+Kazakhstan,Asia,1985,0
+Kenya,Africa,1985,0
+Kyrgyz Republic,Asia,1985,0
+Malawi,Africa,1985,0
+Mexico,Americas,1985,9500
+Morocco,Africa,1985,0
+Mozambique,Africa,1985,0
+Myanmar,Asia,1985,0
+Nepal,Asia,1985,0
+Netherlands,Europe,1985,0
+New Zealand,Asia,1985,0
+Nicaragua,Americas,1985,0
+North Korea,Asia,1985,0
+Pakistan,Asia,1985,5
+Panama,Americas,1985,0
+Papua New Guinea,Asia,1985,0
+Peru,Americas,1985,0
+Philippines,Asia,1985,2
+Poland,Europe,1985,0
+Romania,Europe,1985,0
+Russia,Europe,1985,0
+Rwanda,Africa,1985,0
+Slovenia,Europe,1985,0
+Solomon Islands,Asia,1985,0
+South Africa,Africa,1985,0
+Spain,Europe,1985,0
+St. Lucia,Americas,1985,0
+Sudan,Africa,1985,0
+Tajikistan,Asia,1985,0
+Tanzania,Africa,1985,0
+Thailand,Asia,1985,0
+Tonga,Asia,1985,0
+Trinidad and Tobago,Americas,1985,0
+Turkey,Europe,1985,0
+Turkmenistan,Asia,1985,0
+Uganda,Africa,1985,0
+United Kingdom,Europe,1985,0
+United States,Americas,1985,0
+Uzbekistan,Asia,1985,0
+Vanuatu,Asia,1985,0
+Venezuela,Americas,1985,0
+Yemen,Asia,1985,0
+Afghanistan,Asia,1986,0
+Albania,Europe,1986,0
+Algeria,Africa,1986,0
+Argentina,Americas,1986,0
+Armenia,Europe,1986,0
+Australia,Asia,1986,0
+Austria,Europe,1986,0
+Azerbaijan,Europe,1986,0
+Bangladesh,Asia,1986,0
+Barbados,Americas,1986,0
+Belgium,Europe,1986,0
+Bolivia,Americas,1986,0
+Brazil,Americas,1986,1
+Bulgaria,Europe,1986,3
+Burundi,Africa,1986,0
+Chile,Americas,1986,0
+China,Asia,1986,0
+Colombia,Americas,1986,0
+"Congo, Dem. Rep.",Africa,1986,0
+"Congo, Rep.",Africa,1986,0
+Costa Rica,Americas,1986,0
+Croatia,Europe,1986,0
+Cuba,Americas,1986,0
+Cyprus,Europe,1986,0
+Dominica,Americas,1986,0
+Dominican Republic,Americas,1986,0
+Ecuador,Americas,1986,0
+Egypt,Africa,1986,0
+El Salvador,Americas,1986,1100
+Fiji,Asia,1986,0
+Georgia,Europe,1986,0
+Germany,Europe,1986,0
+Greece,Europe,1986,20
+Guatemala,Americas,1986,0
+Guinea,Africa,1986,0
+Honduras,Americas,1986,0
+Iceland,Europe,1986,0
+India,Asia,1986,6
+Indonesia,Asia,1986,0
+Iran,Asia,1986,1
+Iraq,Asia,1986,0
+Italy,Europe,1986,0
+Japan,Asia,1986,0
+Kazakhstan,Asia,1986,0
+Kenya,Africa,1986,0
+Kyrgyz Republic,Asia,1986,0
+Malawi,Africa,1986,0
+Mexico,Americas,1986,0
+Morocco,Africa,1986,0
+Mozambique,Africa,1986,0
+Myanmar,Asia,1986,0
+Nepal,Asia,1986,0
+Netherlands,Europe,1986,0
+New Zealand,Asia,1986,0
+Nicaragua,Americas,1986,0
+North Korea,Asia,1986,0
+Pakistan,Asia,1986,0
+Panama,Americas,1986,0
+Papua New Guinea,Asia,1986,0
+Peru,Americas,1986,16
+Philippines,Asia,1986,0
+Poland,Europe,1986,0
+Romania,Europe,1986,0
+Russia,Europe,1986,0
+Rwanda,Africa,1986,0
+Slovenia,Europe,1986,0
+Solomon Islands,Asia,1986,0
+South Africa,Africa,1986,0
+Spain,Europe,1986,0
+St. Lucia,Americas,1986,0
+Sudan,Africa,1986,0
+Tajikistan,Asia,1986,0
+Tanzania,Africa,1986,0
+Thailand,Asia,1986,0
+Tonga,Asia,1986,0
+Trinidad and Tobago,Americas,1986,0
+Turkey,Europe,1986,15
+Turkmenistan,Asia,1986,0
+Uganda,Africa,1986,0
+United Kingdom,Europe,1986,0
+United States,Americas,1986,0
+Uzbekistan,Asia,1986,0
+Vanuatu,Asia,1986,0
+Venezuela,Americas,1986,3
+Yemen,Asia,1986,0
+Afghanistan,Asia,1987,0
+Albania,Europe,1987,0
+Algeria,Africa,1987,1
+Argentina,Americas,1987,0
+Armenia,Europe,1987,0
+Australia,Asia,1987,0
+Austria,Europe,1987,0
+Azerbaijan,Europe,1987,0
+Bangladesh,Asia,1987,0
+Barbados,Americas,1987,0
+Belgium,Europe,1987,0
+Bolivia,Americas,1987,0
+Brazil,Americas,1987,0
+Bulgaria,Europe,1987,0
+Burundi,Africa,1987,0
+Chile,Americas,1987,5
+China,Asia,1987,0
+Colombia,Americas,1987,0
+"Congo, Dem. Rep.",Africa,1987,0
+"Congo, Rep.",Africa,1987,0
+Costa Rica,Americas,1987,0
+Croatia,Europe,1987,0
+Cuba,Americas,1987,0
+Cyprus,Europe,1987,0
+Dominica,Americas,1987,0
+Dominican Republic,Americas,1987,0
+Ecuador,Americas,1987,5000
+Egypt,Africa,1987,0
+El Salvador,Americas,1987,0
+Fiji,Asia,1987,0
+Georgia,Europe,1987,0
+Germany,Europe,1987,0
+Greece,Europe,1987,0
+Guatemala,Americas,1987,0
+Guinea,Africa,1987,0
+Honduras,Americas,1987,0
+Iceland,Europe,1987,0
+India,Asia,1987,0
+Indonesia,Asia,1987,127
+Iran,Asia,1987,2
+Iraq,Asia,1987,0
+Italy,Europe,1987,0
+Japan,Asia,1987,2
+Kazakhstan,Asia,1987,0
+Kenya,Africa,1987,0
+Kyrgyz Republic,Asia,1987,0
+Malawi,Africa,1987,0
+Mexico,Americas,1987,2
+Morocco,Africa,1987,0
+Mozambique,Africa,1987,0
+Myanmar,Asia,1987,0
+Nepal,Asia,1987,0
+Netherlands,Europe,1987,0
+New Zealand,Asia,1987,1
+Nicaragua,Americas,1987,0
+North Korea,Asia,1987,0
+Pakistan,Asia,1987,0
+Panama,Americas,1987,0
+Papua New Guinea,Asia,1987,1
+Peru,Americas,1987,0
+Philippines,Asia,1987,0
+Poland,Europe,1987,0
+Romania,Europe,1987,0
+Russia,Europe,1987,0
+Rwanda,Africa,1987,0
+Slovenia,Europe,1987,0
+Solomon Islands,Asia,1987,0
+South Africa,Africa,1987,9
+Spain,Europe,1987,0
+St. Lucia,Americas,1987,0
+Sudan,Africa,1987,0
+Tajikistan,Asia,1987,0
+Tanzania,Africa,1987,0
+Thailand,Asia,1987,0
+Tonga,Asia,1987,0
+Trinidad and Tobago,Americas,1987,0
+Turkey,Europe,1987,0
+Turkmenistan,Asia,1987,0
+Uganda,Africa,1987,0
+United Kingdom,Europe,1987,0
+United States,Americas,1987,8
+Uzbekistan,Asia,1987,0
+Vanuatu,Asia,1987,0
+Venezuela,Americas,1987,0
+Yemen,Asia,1987,0
+Afghanistan,Asia,1988,0
+Albania,Europe,1988,0
+Algeria,Africa,1988,0
+Argentina,Americas,1988,0
+Armenia,Europe,1988,0
+Australia,Asia,1988,0
+Austria,Europe,1988,0
+Azerbaijan,Europe,1988,0
+Bangladesh,Asia,1988,2
+Barbados,Americas,1988,0
+Belgium,Europe,1988,0
+Bolivia,Americas,1988,0
+Brazil,Americas,1988,0
+Bulgaria,Europe,1988,0
+Burundi,Africa,1988,0
+Chile,Americas,1988,0
+China,Asia,1988,939
+Colombia,Americas,1988,0
+"Congo, Dem. Rep.",Africa,1988,0
+"Congo, Rep.",Africa,1988,0
+Costa Rica,Americas,1988,0
+Croatia,Europe,1988,0
+Cuba,Americas,1988,0
+Cyprus,Europe,1988,0
+Dominica,Americas,1988,0
+Dominican Republic,Americas,1988,0
+Ecuador,Americas,1988,0
+Egypt,Africa,1988,0
+El Salvador,Americas,1988,0
+Fiji,Asia,1988,0
+Georgia,Europe,1988,0
+Germany,Europe,1988,0
+Greece,Europe,1988,0
+Guatemala,Americas,1988,5
+Guinea,Africa,1988,0
+Honduras,Americas,1988,0
+Iceland,Europe,1988,0
+India,Asia,1988,384
+Indonesia,Asia,1988,0
+Iran,Asia,1988,1
+Iraq,Asia,1988,0
+Italy,Europe,1988,0
+Japan,Asia,1988,0
+Kazakhstan,Asia,1988,0
+Kenya,Africa,1988,0
+Kyrgyz Republic,Asia,1988,0
+Malawi,Africa,1988,0
+Mexico,Americas,1988,0
+Morocco,Africa,1988,0
+Mozambique,Africa,1988,0
+Myanmar,Asia,1988,0
+Nepal,Asia,1988,709
+Netherlands,Europe,1988,0
+New Zealand,Asia,1988,0
+Nicaragua,Americas,1988,0
+North Korea,Asia,1988,0
+Pakistan,Asia,1988,0
+Panama,Americas,1988,0
+Papua New Guinea,Asia,1988,0
+Peru,Americas,1988,0
+Philippines,Asia,1988,0
+Poland,Europe,1988,0
+Romania,Europe,1988,0
+Russia,Europe,1988,0
+Rwanda,Africa,1988,0
+Slovenia,Europe,1988,0
+Solomon Islands,Asia,1988,1
+South Africa,Africa,1988,8
+Spain,Europe,1988,0
+St. Lucia,Americas,1988,0
+Sudan,Africa,1988,0
+Tajikistan,Asia,1988,0
+Tanzania,Africa,1988,0
+Thailand,Asia,1988,0
+Tonga,Asia,1988,0
+Trinidad and Tobago,Americas,1988,0
+Turkey,Europe,1988,0
+Turkmenistan,Asia,1988,0
+Uganda,Africa,1988,0
+United Kingdom,Europe,1988,0
+United States,Americas,1988,0
+Uzbekistan,Asia,1988,0
+Vanuatu,Asia,1988,0
+Venezuela,Americas,1988,0
+Yemen,Asia,1988,0
+Afghanistan,Asia,1989,0
+Albania,Europe,1989,0
+Algeria,Africa,1989,22
+Argentina,Americas,1989,0
+Armenia,Europe,1989,0
+Australia,Asia,1989,12
+Austria,Europe,1989,0
+Azerbaijan,Europe,1989,0
+Bangladesh,Asia,1989,1
+Barbados,Americas,1989,0
+Belgium,Europe,1989,0
+Bolivia,Americas,1989,0
+Brazil,Americas,1989,0
+Bulgaria,Europe,1989,0
+Burundi,Africa,1989,0
+Chile,Americas,1989,0
+China,Asia,1989,42
+Colombia,Americas,1989,0
+"Congo, Dem. Rep.",Africa,1989,0
+"Congo, Rep.",Africa,1989,0
+Costa Rica,Americas,1989,0
+Croatia,Europe,1989,0
+Cuba,Americas,1989,0
+Cyprus,Europe,1989,0
+Dominica,Americas,1989,0
+Dominican Republic,Americas,1989,0
+Ecuador,Americas,1989,0
+Egypt,Africa,1989,0
+El Salvador,Americas,1989,0
+Fiji,Asia,1989,0
+Georgia,Europe,1989,0
+Germany,Europe,1989,0
+Greece,Europe,1989,0
+Guatemala,Americas,1989,0
+Guinea,Africa,1989,0
+Honduras,Americas,1989,0
+Iceland,Europe,1989,0
+India,Asia,1989,0
+Indonesia,Asia,1989,120
+Iran,Asia,1989,100
+Iraq,Asia,1989,0
+Italy,Europe,1989,0
+Japan,Asia,1989,0
+Kazakhstan,Asia,1989,0
+Kenya,Africa,1989,0
+Kyrgyz Republic,Asia,1989,0
+Malawi,Africa,1989,9
+Mexico,Americas,1989,3
+Morocco,Africa,1989,0
+Mozambique,Africa,1989,0
+Myanmar,Asia,1989,0
+Nepal,Asia,1989,0
+Netherlands,Europe,1989,0
+New Zealand,Asia,1989,0
+Nicaragua,Americas,1989,0
+North Korea,Asia,1989,0
+Pakistan,Asia,1989,0
+Panama,Americas,1989,0
+Papua New Guinea,Asia,1989,0
+Peru,Americas,1989,0
+Philippines,Asia,1989,0
+Poland,Europe,1989,0
+Romania,Europe,1989,0
+Russia,Europe,1989,0
+Rwanda,Africa,1989,0
+Slovenia,Europe,1989,0
+Solomon Islands,Asia,1989,0
+South Africa,Africa,1989,0
+Spain,Europe,1989,0
+St. Lucia,Americas,1989,0
+Sudan,Africa,1989,0
+Tajikistan,Asia,1989,0
+Tanzania,Africa,1989,0
+Thailand,Asia,1989,0
+Tonga,Asia,1989,0
+Trinidad and Tobago,Americas,1989,0
+Turkey,Europe,1989,0
+Turkmenistan,Asia,1989,0
+Uganda,Africa,1989,0
+United Kingdom,Europe,1989,0
+United States,Americas,1989,67
+Uzbekistan,Asia,1989,0
+Vanuatu,Asia,1989,0
+Venezuela,Americas,1989,0
+Yemen,Asia,1989,0
+Afghanistan,Asia,1990,0
+Albania,Europe,1990,0
+Algeria,Africa,1990,0
+Argentina,Americas,1990,0
+Armenia,Europe,1990,0
+Australia,Asia,1990,0
+Austria,Europe,1990,0
+Azerbaijan,Europe,1990,0
+Bangladesh,Asia,1990,0
+Barbados,Americas,1990,0
+Belgium,Europe,1990,0
+Bolivia,Americas,1990,0
+Brazil,Americas,1990,0
+Bulgaria,Europe,1990,1
+Burundi,Africa,1990,0
+Chile,Americas,1990,0
+China,Asia,1990,127
+Colombia,Americas,1990,0
+"Congo, Dem. Rep.",Africa,1990,0
+"Congo, Rep.",Africa,1990,0
+Costa Rica,Americas,1990,1
+Croatia,Europe,1990,0
+Cuba,Americas,1990,0
+Cyprus,Europe,1990,0
+Dominica,Americas,1990,0
+Dominican Republic,Americas,1990,0
+Ecuador,Americas,1990,4
+Egypt,Africa,1990,0
+El Salvador,Americas,1990,0
+Fiji,Asia,1990,0
+Georgia,Europe,1990,0
+Germany,Europe,1990,0
+Greece,Europe,1990,1
+Guatemala,Americas,1990,0
+Guinea,Africa,1990,0
+Honduras,Americas,1990,0
+Iceland,Europe,1990,0
+India,Asia,1990,0
+Indonesia,Asia,1990,6
+Iran,Asia,1990,40000
+Iraq,Asia,1990,0
+Italy,Europe,1990,21
+Japan,Asia,1990,0
+Kazakhstan,Asia,1990,0
+Kenya,Africa,1990,0
+Kyrgyz Republic,Asia,1990,0
+Malawi,Africa,1990,0
+Mexico,Americas,1990,0
+Morocco,Africa,1990,0
+Mozambique,Africa,1990,0
+Myanmar,Asia,1990,0
+Nepal,Asia,1990,0
+Netherlands,Europe,1990,0
+New Zealand,Asia,1990,0
+Nicaragua,Americas,1990,0
+North Korea,Asia,1990,0
+Pakistan,Asia,1990,22
+Panama,Americas,1990,0
+Papua New Guinea,Asia,1990,0
+Peru,Americas,1990,200
+Philippines,Asia,1990,2420
+Poland,Europe,1990,0
+Romania,Europe,1990,9
+Russia,Europe,1990,0
+Rwanda,Africa,1990,0
+Slovenia,Europe,1990,0
+Solomon Islands,Asia,1990,0
+South Africa,Africa,1990,10
+Spain,Europe,1990,0
+St. Lucia,Americas,1990,0
+Sudan,Africa,1990,0
+Tajikistan,Asia,1990,0
+Tanzania,Africa,1990,0
+Thailand,Asia,1990,0
+Tonga,Asia,1990,0
+Trinidad and Tobago,Americas,1990,0
+Turkey,Europe,1990,0
+Turkmenistan,Asia,1990,0
+Uganda,Africa,1990,0
+United Kingdom,Europe,1990,0
+United States,Americas,1990,0
+Uzbekistan,Asia,1990,0
+Vanuatu,Asia,1990,0
+Venezuela,Americas,1990,0
+Yemen,Asia,1990,0
+Afghanistan,Asia,1991,154
+Albania,Europe,1991,0
+Algeria,Africa,1991,0
+Argentina,Americas,1991,0
+Armenia,Europe,1991,0
+Australia,Asia,1991,0
+Austria,Europe,1991,0
+Azerbaijan,Europe,1991,0
+Bangladesh,Asia,1991,0
+Barbados,Americas,1991,0
+Belgium,Europe,1991,0
+Bolivia,Americas,1991,0
+Brazil,Americas,1991,0
+Bulgaria,Europe,1991,0
+Burundi,Africa,1991,0
+Chile,Americas,1991,0
+China,Asia,1991,1
+Colombia,Americas,1991,2
+"Congo, Dem. Rep.",Africa,1991,0
+"Congo, Rep.",Africa,1991,0
+Costa Rica,Americas,1991,47
+Croatia,Europe,1991,0
+Cuba,Americas,1991,0
+Cyprus,Europe,1991,0
+Dominica,Americas,1991,0
+Dominican Republic,Americas,1991,0
+Ecuador,Americas,1991,0
+Egypt,Africa,1991,0
+El Salvador,Americas,1991,0
+Fiji,Asia,1991,0
+Georgia,Europe,1991,8
+Germany,Europe,1991,0
+Greece,Europe,1991,0
+Guatemala,Americas,1991,14
+Guinea,Africa,1991,0
+Honduras,Americas,1991,0
+Iceland,Europe,1991,0
+India,Asia,1991,1500
+Indonesia,Asia,1991,28
+Iran,Asia,1991,0
+Iraq,Asia,1991,20
+Italy,Europe,1991,0
+Japan,Asia,1991,0
+Kazakhstan,Asia,1991,0
+Kenya,Africa,1991,0
+Kyrgyz Republic,Asia,1991,0
+Malawi,Africa,1991,0
+Mexico,Americas,1991,0
+Morocco,Africa,1991,0
+Mozambique,Africa,1991,0
+Myanmar,Asia,1991,0
+Nepal,Asia,1991,0
+Netherlands,Europe,1991,0
+New Zealand,Asia,1991,0
+Nicaragua,Americas,1991,0
+North Korea,Asia,1991,0
+Pakistan,Asia,1991,300
+Panama,Americas,1991,30
+Papua New Guinea,Asia,1991,0
+Peru,Americas,1991,64
+Philippines,Asia,1991,0
+Poland,Europe,1991,0
+Romania,Europe,1991,0
+Russia,Europe,1991,0
+Rwanda,Africa,1991,0
+Slovenia,Europe,1991,0
+Solomon Islands,Asia,1991,0
+South Africa,Africa,1991,0
+Spain,Europe,1991,0
+St. Lucia,Americas,1991,0
+Sudan,Africa,1991,0
+Tajikistan,Asia,1991,0
+Tanzania,Africa,1991,0
+Thailand,Asia,1991,0
+Tonga,Asia,1991,0
+Trinidad and Tobago,Americas,1991,0
+Turkey,Europe,1991,0
+Turkmenistan,Asia,1991,0
+Uganda,Africa,1991,0
+United Kingdom,Europe,1991,0
+United States,Americas,1991,2
+Uzbekistan,Asia,1991,0
+Vanuatu,Asia,1991,0
+Venezuela,Americas,1991,0
+Yemen,Asia,1991,10
+Afghanistan,Asia,1992,14
+Albania,Europe,1992,0
+Algeria,Africa,1992,0
+Argentina,Americas,1992,0
+Armenia,Europe,1992,0
+Australia,Asia,1992,0
+Austria,Europe,1992,0
+Azerbaijan,Europe,1992,0
+Bangladesh,Asia,1992,0
+Barbados,Americas,1992,0
+Belgium,Europe,1992,0
+Bolivia,Americas,1992,0
+Brazil,Americas,1992,0
+Bulgaria,Europe,1992,0
+Burundi,Africa,1992,0
+Chile,Americas,1992,0
+China,Asia,1992,0
+Colombia,Americas,1992,11
+"Congo, Dem. Rep.",Africa,1992,9
+"Congo, Rep.",Africa,1992,0
+Costa Rica,Americas,1992,0
+Croatia,Europe,1992,0
+Cuba,Americas,1992,0
+Cyprus,Europe,1992,0
+Dominica,Americas,1992,0
+Dominican Republic,Americas,1992,0
+Ecuador,Americas,1992,0
+Egypt,Africa,1992,552
+El Salvador,Americas,1992,0
+Fiji,Asia,1992,0
+Georgia,Europe,1992,1
+Germany,Europe,1992,1
+Greece,Europe,1992,0
+Guatemala,Americas,1992,0
+Guinea,Africa,1992,0
+Honduras,Americas,1992,0
+Iceland,Europe,1992,0
+India,Asia,1992,0
+Indonesia,Asia,1992,2500
+Iran,Asia,1992,5
+Iraq,Asia,1992,0
+Italy,Europe,1992,0
+Japan,Asia,1992,0
+Kazakhstan,Asia,1992,0
+Kenya,Africa,1992,0
+Kyrgyz Republic,Asia,1992,58
+Malawi,Africa,1992,0
+Mexico,Americas,1992,0
+Morocco,Africa,1992,0
+Mozambique,Africa,1992,0
+Myanmar,Asia,1992,0
+Nepal,Asia,1992,0
+Netherlands,Europe,1992,0
+New Zealand,Asia,1992,0
+Nicaragua,Americas,1992,179
+North Korea,Asia,1992,0
+Pakistan,Asia,1992,40
+Panama,Americas,1992,0
+Papua New Guinea,Asia,1992,0
+Peru,Americas,1992,0
+Philippines,Asia,1992,0
+Poland,Europe,1992,0
+Romania,Europe,1992,0
+Russia,Europe,1992,0
+Rwanda,Africa,1992,0
+Slovenia,Europe,1992,0
+Solomon Islands,Asia,1992,0
+South Africa,Africa,1992,0
+Spain,Europe,1992,0
+St. Lucia,Americas,1992,0
+Sudan,Africa,1992,0
+Tajikistan,Asia,1992,0
+Tanzania,Africa,1992,0
+Thailand,Asia,1992,0
+Tonga,Asia,1992,0
+Trinidad and Tobago,Americas,1992,0
+Turkey,Europe,1992,653
+Turkmenistan,Asia,1992,0
+Uganda,Africa,1992,0
+United Kingdom,Europe,1992,0
+United States,Americas,1992,1
+Uzbekistan,Asia,1992,9
+Vanuatu,Asia,1992,0
+Venezuela,Americas,1992,0
+Yemen,Asia,1992,0
+Afghanistan,Asia,1993,0
+Albania,Europe,1993,0
+Algeria,Africa,1993,0
+Argentina,Americas,1993,0
+Armenia,Europe,1993,0
+Australia,Asia,1993,0
+Austria,Europe,1993,0
+Azerbaijan,Europe,1993,0
+Bangladesh,Asia,1993,0
+Barbados,Americas,1993,0
+Belgium,Europe,1993,0
+Bolivia,Americas,1993,0
+Brazil,Americas,1993,0
+Bulgaria,Europe,1993,0
+Burundi,Africa,1993,0
+Chile,Americas,1993,0
+China,Asia,1993,0
+Colombia,Americas,1993,2
+"Congo, Dem. Rep.",Africa,1993,0
+"Congo, Rep.",Africa,1993,0
+Costa Rica,Americas,1993,3
+Croatia,Europe,1993,0
+Cuba,Americas,1993,0
+Cyprus,Europe,1993,0
+Dominica,Americas,1993,0
+Dominican Republic,Americas,1993,0
+Ecuador,Americas,1993,0
+Egypt,Africa,1993,0
+El Salvador,Americas,1993,0
+Fiji,Asia,1993,0
+Georgia,Europe,1993,0
+Germany,Europe,1993,0
+Greece,Europe,1993,1
+Guatemala,Americas,1993,0
+Guinea,Africa,1993,0
+Honduras,Americas,1993,0
+Iceland,Europe,1993,0
+India,Asia,1993,9750
+Indonesia,Asia,1993,0
+Iran,Asia,1993,24
+Iraq,Asia,1993,0
+Italy,Europe,1993,0
+Japan,Asia,1993,241
+Kazakhstan,Asia,1993,0
+Kenya,Africa,1993,0
+Kyrgyz Republic,Asia,1993,0
+Malawi,Africa,1993,0
+Mexico,Americas,1993,0
+Morocco,Africa,1993,0
+Mozambique,Africa,1993,0
+Myanmar,Asia,1993,0
+Nepal,Asia,1993,0
+Netherlands,Europe,1993,0
+New Zealand,Asia,1993,0
+Nicaragua,Americas,1993,0
+North Korea,Asia,1993,0
+Pakistan,Asia,1993,0
+Panama,Americas,1993,0
+Papua New Guinea,Asia,1993,53
+Peru,Americas,1993,6
+Philippines,Asia,1993,0
+Poland,Europe,1993,0
+Romania,Europe,1993,0
+Russia,Europe,1993,0
+Rwanda,Africa,1993,0
+Slovenia,Europe,1993,0
+Solomon Islands,Asia,1993,0
+South Africa,Africa,1993,0
+Spain,Europe,1993,0
+St. Lucia,Americas,1993,0
+Sudan,Africa,1993,3
+Tajikistan,Asia,1993,0
+Tanzania,Africa,1993,0
+Thailand,Asia,1993,0
+Tonga,Asia,1993,0
+Trinidad and Tobago,Americas,1993,0
+Turkey,Europe,1993,0
+Turkmenistan,Asia,1993,0
+Uganda,Africa,1993,0
+United Kingdom,Europe,1993,0
+United States,Americas,1993,2
+Uzbekistan,Asia,1993,0
+Vanuatu,Asia,1993,0
+Venezuela,Americas,1993,0
+Yemen,Asia,1993,0
+Afghanistan,Asia,1994,160
+Albania,Europe,1994,0
+Algeria,Africa,1994,171
+Argentina,Americas,1994,0
+Armenia,Europe,1994,0
+Australia,Asia,1994,0
+Austria,Europe,1994,0
+Azerbaijan,Europe,1994,0
+Bangladesh,Asia,1994,0
+Barbados,Americas,1994,0
+Belgium,Europe,1994,0
+Bolivia,Americas,1994,5
+Brazil,Americas,1994,0
+Bulgaria,Europe,1994,0
+Burundi,Africa,1994,0
+Chile,Americas,1994,0
+China,Asia,1994,1
+Colombia,Americas,1994,271
+"Congo, Dem. Rep.",Africa,1994,0
+"Congo, Rep.",Africa,1994,0
+Costa Rica,Americas,1994,0
+Croatia,Europe,1994,0
+Cuba,Americas,1994,0
+Cyprus,Europe,1994,0
+Dominica,Americas,1994,0
+Dominican Republic,Americas,1994,0
+Ecuador,Americas,1994,0
+Egypt,Africa,1994,0
+El Salvador,Americas,1994,0
+Fiji,Asia,1994,0
+Georgia,Europe,1994,0
+Germany,Europe,1994,0
+Greece,Europe,1994,0
+Guatemala,Americas,1994,0
+Guinea,Africa,1994,0
+Honduras,Americas,1994,0
+Iceland,Europe,1994,0
+India,Asia,1994,0
+Indonesia,Asia,1994,454
+Iran,Asia,1994,14
+Iraq,Asia,1994,0
+Italy,Europe,1994,0
+Japan,Asia,1994,7
+Kazakhstan,Asia,1994,0
+Kenya,Africa,1994,0
+Kyrgyz Republic,Asia,1994,0
+Malawi,Africa,1994,0
+Mexico,Americas,1994,0
+Morocco,Africa,1994,0
+Mozambique,Africa,1994,0
+Myanmar,Asia,1994,0
+Nepal,Asia,1994,0
+Netherlands,Europe,1994,0
+New Zealand,Asia,1994,0
+Nicaragua,Americas,1994,0
+North Korea,Asia,1994,0
+Pakistan,Asia,1994,0
+Panama,Americas,1994,0
+Papua New Guinea,Asia,1994,0
+Peru,Americas,1994,0
+Philippines,Asia,1994,81
+Poland,Europe,1994,0
+Romania,Europe,1994,0
+Russia,Europe,1994,11
+Rwanda,Africa,1994,0
+Slovenia,Europe,1994,0
+Solomon Islands,Asia,1994,0
+South Africa,Africa,1994,0
+Spain,Europe,1994,0
+St. Lucia,Americas,1994,0
+Sudan,Africa,1994,0
+Tajikistan,Asia,1994,0
+Tanzania,Africa,1994,0
+Thailand,Asia,1994,0
+Tonga,Asia,1994,0
+Trinidad and Tobago,Americas,1994,0
+Turkey,Europe,1994,0
+Turkmenistan,Asia,1994,0
+Uganda,Africa,1994,7
+United Kingdom,Europe,1994,0
+United States,Americas,1994,60
+Uzbekistan,Asia,1994,0
+Vanuatu,Asia,1994,0
+Venezuela,Americas,1994,0
+Yemen,Asia,1994,0
+Afghanistan,Asia,1995,0
+Albania,Europe,1995,0
+Algeria,Africa,1995,0
+Argentina,Americas,1995,0
+Armenia,Europe,1995,0
+Australia,Asia,1995,0
+Austria,Europe,1995,0
+Azerbaijan,Europe,1995,0
+Bangladesh,Asia,1995,0
+Barbados,Americas,1995,0
+Belgium,Europe,1995,0
+Bolivia,Americas,1995,0
+Brazil,Americas,1995,0
+Bulgaria,Europe,1995,0
+Burundi,Africa,1995,0
+Chile,Americas,1995,3
+China,Asia,1995,71
+Colombia,Americas,1995,55
+"Congo, Dem. Rep.",Africa,1995,0
+"Congo, Rep.",Africa,1995,0
+Costa Rica,Americas,1995,0
+Croatia,Europe,1995,0
+Cuba,Americas,1995,0
+Cyprus,Europe,1995,2
+Dominica,Americas,1995,0
+Dominican Republic,Americas,1995,0
+Ecuador,Americas,1995,3
+Egypt,Africa,1995,10
+El Salvador,Americas,1995,0
+Fiji,Asia,1995,0
+Georgia,Europe,1995,0
+Germany,Europe,1995,0
+Greece,Europe,1995,52
+Guatemala,Americas,1995,0
+Guinea,Africa,1995,0
+Honduras,Americas,1995,0
+Iceland,Europe,1995,0
+India,Asia,1995,0
+Indonesia,Asia,1995,99
+Iran,Asia,1995,0
+Iraq,Asia,1995,0
+Italy,Europe,1995,0
+Japan,Asia,1995,5300
+Kazakhstan,Asia,1995,0
+Kenya,Africa,1995,0
+Kyrgyz Republic,Asia,1995,0
+Malawi,Africa,1995,0
+Mexico,Americas,1995,64
+Morocco,Africa,1995,0
+Mozambique,Africa,1995,0
+Myanmar,Asia,1995,0
+Nepal,Asia,1995,0
+Netherlands,Europe,1995,0
+New Zealand,Asia,1995,0
+Nicaragua,Americas,1995,0
+North Korea,Asia,1995,0
+Pakistan,Asia,1995,0
+Panama,Americas,1995,0
+Papua New Guinea,Asia,1995,0
+Peru,Americas,1995,0
+Philippines,Asia,1995,0
+Poland,Europe,1995,0
+Romania,Europe,1995,0
+Russia,Europe,1995,1990
+Rwanda,Africa,1995,0
+Slovenia,Europe,1995,0
+Solomon Islands,Asia,1995,0
+South Africa,Africa,1995,0
+Spain,Europe,1995,0
+St. Lucia,Americas,1995,0
+Sudan,Africa,1995,0
+Tajikistan,Asia,1995,0
+Tanzania,Africa,1995,0
+Thailand,Asia,1995,0
+Tonga,Asia,1995,0
+Trinidad and Tobago,Americas,1995,0
+Turkey,Europe,1995,94
+Turkmenistan,Asia,1995,0
+Uganda,Africa,1995,0
+United Kingdom,Europe,1995,0
+United States,Americas,1995,0
+Uzbekistan,Asia,1995,0
+Vanuatu,Asia,1995,0
+Venezuela,Americas,1995,0
+Yemen,Asia,1995,0
+Afghanistan,Asia,1996,0
+Albania,Europe,1996,0
+Algeria,Africa,1996,0
+Argentina,Americas,1996,0
+Armenia,Europe,1996,0
+Australia,Asia,1996,0
+Austria,Europe,1996,0
+Azerbaijan,Europe,1996,0
+Bangladesh,Asia,1996,0
+Barbados,Americas,1996,0
+Belgium,Europe,1996,0
+Bolivia,Americas,1996,0
+Brazil,Americas,1996,0
+Bulgaria,Europe,1996,0
+Burundi,Africa,1996,0
+Chile,Americas,1996,0
+China,Asia,1996,353
+Colombia,Americas,1996,0
+"Congo, Dem. Rep.",Africa,1996,0
+"Congo, Rep.",Africa,1996,0
+Costa Rica,Americas,1996,0
+Croatia,Europe,1996,0
+Cuba,Americas,1996,0
+Cyprus,Europe,1996,0
+Dominica,Americas,1996,0
+Dominican Republic,Americas,1996,0
+Ecuador,Americas,1996,27
+Egypt,Africa,1996,0
+El Salvador,Americas,1996,0
+Fiji,Asia,1996,0
+Georgia,Europe,1996,0
+Germany,Europe,1996,0
+Greece,Europe,1996,0
+Guatemala,Americas,1996,0
+Guinea,Africa,1996,0
+Honduras,Americas,1996,0
+Iceland,Europe,1996,0
+India,Asia,1996,0
+Indonesia,Asia,1996,175
+Iran,Asia,1996,0
+Iraq,Asia,1996,0
+Italy,Europe,1996,0
+Japan,Asia,1996,0
+Kazakhstan,Asia,1996,0
+Kenya,Africa,1996,0
+Kyrgyz Republic,Asia,1996,0
+Malawi,Africa,1996,0
+Mexico,Americas,1996,0
+Morocco,Africa,1996,0
+Mozambique,Africa,1996,0
+Myanmar,Asia,1996,0
+Nepal,Asia,1996,0
+Netherlands,Europe,1996,0
+New Zealand,Asia,1996,0
+Nicaragua,Americas,1996,0
+North Korea,Asia,1996,0
+Pakistan,Asia,1996,0
+Panama,Americas,1996,0
+Papua New Guinea,Asia,1996,0
+Peru,Americas,1996,14
+Philippines,Asia,1996,0
+Poland,Europe,1996,0
+Romania,Europe,1996,0
+Russia,Europe,1996,0
+Rwanda,Africa,1996,0
+Slovenia,Europe,1996,0
+Solomon Islands,Asia,1996,0
+South Africa,Africa,1996,0
+Spain,Europe,1996,0
+St. Lucia,Americas,1996,0
+Sudan,Africa,1996,0
+Tajikistan,Asia,1996,0
+Tanzania,Africa,1996,0
+Thailand,Asia,1996,0
+Tonga,Asia,1996,0
+Trinidad and Tobago,Americas,1996,0
+Turkey,Europe,1996,0
+Turkmenistan,Asia,1996,0
+Uganda,Africa,1996,0
+United Kingdom,Europe,1996,0
+United States,Americas,1996,0
+Uzbekistan,Asia,1996,0
+Vanuatu,Asia,1996,0
+Venezuela,Americas,1996,0
+Yemen,Asia,1996,0
+Afghanistan,Asia,1997,5
+Albania,Europe,1997,0
+Algeria,Africa,1997,0
+Argentina,Americas,1997,0
+Armenia,Europe,1997,0
+Australia,Asia,1997,0
+Austria,Europe,1997,0
+Azerbaijan,Europe,1997,0
+Bangladesh,Asia,1997,23
+Barbados,Americas,1997,0
+Belgium,Europe,1997,0
+Bolivia,Americas,1997,0
+Brazil,Americas,1997,0
+Bulgaria,Europe,1997,0
+Burundi,Africa,1997,0
+Chile,Americas,1997,8
+China,Asia,1997,32
+Colombia,Americas,1997,0
+"Congo, Dem. Rep.",Africa,1997,0
+"Congo, Rep.",Africa,1997,0
+Costa Rica,Americas,1997,0
+Croatia,Europe,1997,0
+Cuba,Americas,1997,0
+Cyprus,Europe,1997,0
+Dominica,Americas,1997,0
+Dominican Republic,Americas,1997,0
+Ecuador,Americas,1997,0
+Egypt,Africa,1997,0
+El Salvador,Americas,1997,0
+Fiji,Asia,1997,0
+Georgia,Europe,1997,0
+Germany,Europe,1997,0
+Greece,Europe,1997,0
+Guatemala,Americas,1997,0
+Guinea,Africa,1997,0
+Honduras,Americas,1997,0
+Iceland,Europe,1997,0
+India,Asia,1997,43
+Indonesia,Asia,1997,20
+Iran,Asia,1997,2770
+Iraq,Asia,1997,0
+Italy,Europe,1997,14
+Japan,Asia,1997,0
+Kazakhstan,Asia,1997,0
+Kenya,Africa,1997,0
+Kyrgyz Republic,Asia,1997,0
+Malawi,Africa,1997,0
+Mexico,Americas,1997,1
+Morocco,Africa,1997,0
+Mozambique,Africa,1997,0
+Myanmar,Asia,1997,0
+Nepal,Asia,1997,0
+Netherlands,Europe,1997,0
+New Zealand,Asia,1997,0
+Nicaragua,Americas,1997,0
+North Korea,Asia,1997,0
+Pakistan,Asia,1997,50
+Panama,Americas,1997,0
+Papua New Guinea,Asia,1997,0
+Peru,Americas,1997,0
+Philippines,Asia,1997,0
+Poland,Europe,1997,0
+Romania,Europe,1997,0
+Russia,Europe,1997,0
+Rwanda,Africa,1997,0
+Slovenia,Europe,1997,0
+Solomon Islands,Asia,1997,0
+South Africa,Africa,1997,15
+Spain,Europe,1997,0
+St. Lucia,Americas,1997,0
+Sudan,Africa,1997,0
+Tajikistan,Asia,1997,0
+Tanzania,Africa,1997,0
+Thailand,Asia,1997,0
+Tonga,Asia,1997,0
+Trinidad and Tobago,Americas,1997,0
+Turkey,Europe,1997,0
+Turkmenistan,Asia,1997,0
+Uganda,Africa,1997,0
+United Kingdom,Europe,1997,0
+United States,Americas,1997,0
+Uzbekistan,Asia,1997,0
+Vanuatu,Asia,1997,0
+Venezuela,Americas,1997,80
+Yemen,Asia,1997,0
+Afghanistan,Asia,1998,7020
+Albania,Europe,1998,0
+Algeria,Africa,1998,0
+Argentina,Americas,1998,0
+Armenia,Europe,1998,0
+Australia,Asia,1998,0
+Austria,Europe,1998,0
+Azerbaijan,Europe,1998,1
+Bangladesh,Asia,1998,0
+Barbados,Americas,1998,0
+Belgium,Europe,1998,0
+Bolivia,Americas,1998,95
+Brazil,Americas,1998,0
+Bulgaria,Europe,1998,0
+Burundi,Africa,1998,0
+Chile,Americas,1998,0
+China,Asia,1998,55
+Colombia,Americas,1998,0
+"Congo, Dem. Rep.",Africa,1998,0
+"Congo, Rep.",Africa,1998,0
+Costa Rica,Americas,1998,0
+Croatia,Europe,1998,0
+Cuba,Americas,1998,0
+Cyprus,Europe,1998,0
+Dominica,Americas,1998,0
+Dominican Republic,Americas,1998,0
+Ecuador,Americas,1998,3
+Egypt,Africa,1998,0
+El Salvador,Americas,1998,0
+Fiji,Asia,1998,0
+Georgia,Europe,1998,0
+Germany,Europe,1998,0
+Greece,Europe,1998,0
+Guatemala,Americas,1998,0
+Guinea,Africa,1998,0
+Honduras,Americas,1998,0
+Iceland,Europe,1998,0
+India,Asia,1998,0
+Indonesia,Asia,1998,34
+Iran,Asia,1998,22
+Iraq,Asia,1998,0
+Italy,Europe,1998,0
+Japan,Asia,1998,0
+Kazakhstan,Asia,1998,0
+Kenya,Africa,1998,0
+Kyrgyz Republic,Asia,1998,0
+Malawi,Africa,1998,0
+Mexico,Americas,1998,0
+Morocco,Africa,1998,0
+Mozambique,Africa,1998,0
+Myanmar,Asia,1998,0
+Nepal,Asia,1998,0
+Netherlands,Europe,1998,0
+New Zealand,Asia,1998,0
+Nicaragua,Americas,1998,0
+North Korea,Asia,1998,0
+Pakistan,Asia,1998,1
+Panama,Americas,1998,0
+Papua New Guinea,Asia,1998,0
+Peru,Americas,1998,0
+Philippines,Asia,1998,0
+Poland,Europe,1998,0
+Romania,Europe,1998,0
+Russia,Europe,1998,0
+Rwanda,Africa,1998,0
+Slovenia,Europe,1998,0
+Solomon Islands,Asia,1998,0
+South Africa,Africa,1998,0
+Spain,Europe,1998,0
+St. Lucia,Americas,1998,0
+Sudan,Africa,1998,0
+Tajikistan,Asia,1998,0
+Tanzania,Africa,1998,0
+Thailand,Asia,1998,0
+Tonga,Asia,1998,0
+Trinidad and Tobago,Americas,1998,0
+Turkey,Europe,1998,147
+Turkmenistan,Asia,1998,0
+Uganda,Africa,1998,0
+United Kingdom,Europe,1998,0
+United States,Americas,1998,0
+Uzbekistan,Asia,1998,0
+Vanuatu,Asia,1998,0
+Venezuela,Americas,1998,0
+Yemen,Asia,1998,0
+Afghanistan,Asia,1999,70
+Albania,Europe,1999,0
+Algeria,Africa,1999,22
+Argentina,Americas,1999,0
+Armenia,Europe,1999,0
+Australia,Asia,1999,0
+Austria,Europe,1999,0
+Azerbaijan,Europe,1999,1
+Bangladesh,Asia,1999,6
+Barbados,Americas,1999,0
+Belgium,Europe,1999,0
+Bolivia,Americas,1999,0
+Brazil,Americas,1999,0
+Bulgaria,Europe,1999,0
+Burundi,Africa,1999,0
+Chile,Americas,1999,0
+China,Asia,1999,0
+Colombia,Americas,1999,1190
+"Congo, Dem. Rep.",Africa,1999,0
+"Congo, Rep.",Africa,1999,0
+Costa Rica,Americas,1999,0
+Croatia,Europe,1999,0
+Cuba,Americas,1999,0
+Cyprus,Europe,1999,0
+Dominica,Americas,1999,0
+Dominican Republic,Americas,1999,0
+Ecuador,Americas,1999,0
+Egypt,Africa,1999,0
+El Salvador,Americas,1999,0
+Fiji,Asia,1999,0
+Georgia,Europe,1999,0
+Germany,Europe,1999,0
+Greece,Europe,1999,143
+Guatemala,Americas,1999,2
+Guinea,Africa,1999,0
+Honduras,Americas,1999,0
+Iceland,Europe,1999,0
+India,Asia,1999,100
+Indonesia,Asia,1999,5
+Iran,Asia,1999,21
+Iraq,Asia,1999,0
+Italy,Europe,1999,0
+Japan,Asia,1999,0
+Kazakhstan,Asia,1999,0
+Kenya,Africa,1999,0
+Kyrgyz Republic,Asia,1999,0
+Malawi,Africa,1999,0
+Mexico,Americas,1999,46
+Morocco,Africa,1999,0
+Mozambique,Africa,1999,0
+Myanmar,Asia,1999,0
+Nepal,Asia,1999,0
+Netherlands,Europe,1999,0
+New Zealand,Asia,1999,0
+Nicaragua,Americas,1999,0
+North Korea,Asia,1999,0
+Pakistan,Asia,1999,0
+Panama,Americas,1999,0
+Papua New Guinea,Asia,1999,0
+Peru,Americas,1999,1
+Philippines,Asia,1999,6
+Poland,Europe,1999,0
+Romania,Europe,1999,0
+Russia,Europe,1999,1
+Rwanda,Africa,1999,0
+Slovenia,Europe,1999,0
+Solomon Islands,Asia,1999,0
+South Africa,Africa,1999,0
+Spain,Europe,1999,0
+St. Lucia,Americas,1999,0
+Sudan,Africa,1999,0
+Tajikistan,Asia,1999,0
+Tanzania,Africa,1999,0
+Thailand,Asia,1999,0
+Tonga,Asia,1999,0
+Trinidad and Tobago,Americas,1999,0
+Turkey,Europe,1999,18000
+Turkmenistan,Asia,1999,0
+Uganda,Africa,1999,0
+United Kingdom,Europe,1999,0
+United States,Americas,1999,0
+Uzbekistan,Asia,1999,0
+Vanuatu,Asia,1999,12
+Venezuela,Americas,1999,0
+Yemen,Asia,1999,0
+Afghanistan,Asia,2000,0
+Albania,Europe,2000,0
+Algeria,Africa,2000,0
+Argentina,Americas,2000,0
+Armenia,Europe,2000,0
+Australia,Asia,2000,0
+Austria,Europe,2000,0
+Azerbaijan,Europe,2000,31
+Bangladesh,Asia,2000,0
+Barbados,Americas,2000,0
+Belgium,Europe,2000,0
+Bolivia,Americas,2000,0
+Brazil,Americas,2000,0
+Bulgaria,Europe,2000,0
+Burundi,Africa,2000,0
+Chile,Americas,2000,0
+China,Asia,2000,9
+Colombia,Americas,2000,2
+"Congo, Dem. Rep.",Africa,2000,0
+"Congo, Rep.",Africa,2000,0
+Costa Rica,Americas,2000,0
+Croatia,Europe,2000,0
+Cuba,Americas,2000,0
+Cyprus,Europe,2000,0
+Dominica,Americas,2000,0
+Dominican Republic,Americas,2000,0
+Ecuador,Americas,2000,0
+Egypt,Africa,2000,0
+El Salvador,Americas,2000,0
+Fiji,Asia,2000,0
+Georgia,Europe,2000,0
+Germany,Europe,2000,0
+Greece,Europe,2000,0
+Guatemala,Americas,2000,0
+Guinea,Africa,2000,0
+Honduras,Americas,2000,0
+Iceland,Europe,2000,0
+India,Asia,2000,0
+Indonesia,Asia,2000,149
+Iran,Asia,2000,1
+Iraq,Asia,2000,0
+Italy,Europe,2000,0
+Japan,Asia,2000,1
+Kazakhstan,Asia,2000,0
+Kenya,Africa,2000,0
+Kyrgyz Republic,Asia,2000,0
+Malawi,Africa,2000,0
+Mexico,Americas,2000,0
+Morocco,Africa,2000,0
+Mozambique,Africa,2000,0
+Myanmar,Asia,2000,0
+Nepal,Asia,2000,0
+Netherlands,Europe,2000,0
+New Zealand,Asia,2000,0
+Nicaragua,Americas,2000,7
+North Korea,Asia,2000,0
+Pakistan,Asia,2000,0
+Panama,Americas,2000,0
+Papua New Guinea,Asia,2000,1
+Peru,Americas,2000,0
+Philippines,Asia,2000,0
+Poland,Europe,2000,0
+Romania,Europe,2000,0
+Russia,Europe,2000,0
+Rwanda,Africa,2000,0
+Slovenia,Europe,2000,0
+Solomon Islands,Asia,2000,0
+South Africa,Africa,2000,0
+Spain,Europe,2000,0
+St. Lucia,Americas,2000,0
+Sudan,Africa,2000,0
+Tajikistan,Asia,2000,0
+Tanzania,Africa,2000,1
+Thailand,Asia,2000,0
+Tonga,Asia,2000,0
+Trinidad and Tobago,Americas,2000,0
+Turkey,Europe,2000,3
+Turkmenistan,Asia,2000,11
+Uganda,Africa,2000,0
+United Kingdom,Europe,2000,0
+United States,Americas,2000,0
+Uzbekistan,Asia,2000,0
+Vanuatu,Asia,2000,0
+Venezuela,Americas,2000,0
+Yemen,Asia,2000,0
+Afghanistan,Asia,2001,4
+Albania,Europe,2001,0
+Algeria,Africa,2001,0
+Argentina,Americas,2001,0
+Armenia,Europe,2001,0
+Australia,Asia,2001,0
+Austria,Europe,2001,0
+Azerbaijan,Europe,2001,0
+Bangladesh,Asia,2001,0
+Barbados,Americas,2001,0
+Belgium,Europe,2001,0
+Bolivia,Americas,2001,0
+Brazil,Americas,2001,0
+Bulgaria,Europe,2001,0
+Burundi,Africa,2001,0
+Chile,Americas,2001,0
+China,Asia,2001,8
+Colombia,Americas,2001,0
+"Congo, Dem. Rep.",Africa,2001,0
+"Congo, Rep.",Africa,2001,0
+Costa Rica,Americas,2001,0
+Croatia,Europe,2001,0
+Cuba,Americas,2001,0
+Cyprus,Europe,2001,0
+Dominica,Americas,2001,0
+Dominican Republic,Americas,2001,0
+Ecuador,Americas,2001,0
+Egypt,Africa,2001,0
+El Salvador,Americas,2001,1160
+Fiji,Asia,2001,0
+Georgia,Europe,2001,0
+Germany,Europe,2001,0
+Greece,Europe,2001,0
+Guatemala,Americas,2001,6
+Guinea,Africa,2001,0
+Honduras,Americas,2001,0
+Iceland,Europe,2001,0
+India,Asia,2001,20000
+Indonesia,Asia,2001,0
+Iran,Asia,2001,0
+Iraq,Asia,2001,0
+Italy,Europe,2001,0
+Japan,Asia,2001,2
+Kazakhstan,Asia,2001,0
+Kenya,Africa,2001,0
+Kyrgyz Republic,Asia,2001,0
+Malawi,Africa,2001,0
+Mexico,Americas,2001,0
+Morocco,Africa,2001,0
+Mozambique,Africa,2001,0
+Myanmar,Asia,2001,0
+Nepal,Asia,2001,0
+Netherlands,Europe,2001,0
+New Zealand,Asia,2001,0
+Nicaragua,Americas,2001,0
+North Korea,Asia,2001,0
+Pakistan,Asia,2001,12
+Panama,Americas,2001,0
+Papua New Guinea,Asia,2001,0
+Peru,Americas,2001,151
+Philippines,Asia,2001,0
+Poland,Europe,2001,0
+Romania,Europe,2001,0
+Russia,Europe,2001,0
+Rwanda,Africa,2001,0
+Slovenia,Europe,2001,0
+Solomon Islands,Asia,2001,0
+South Africa,Africa,2001,0
+Spain,Europe,2001,0
+St. Lucia,Americas,2001,0
+Sudan,Africa,2001,0
+Tajikistan,Asia,2001,0
+Tanzania,Africa,2001,0
+Thailand,Asia,2001,0
+Tonga,Asia,2001,0
+Trinidad and Tobago,Americas,2001,0
+Turkey,Europe,2001,0
+Turkmenistan,Asia,2001,0
+Uganda,Africa,2001,0
+United Kingdom,Europe,2001,0
+United States,Americas,2001,1
+Uzbekistan,Asia,2001,0
+Vanuatu,Asia,2001,0
+Venezuela,Americas,2001,0
+Yemen,Asia,2001,0
+Afghanistan,Asia,2002,1200
+Albania,Europe,2002,0
+Algeria,Africa,2002,0
+Argentina,Americas,2002,0
+Armenia,Europe,2002,0
+Australia,Asia,2002,0
+Austria,Europe,2002,0
+Azerbaijan,Europe,2002,0
+Bangladesh,Asia,2002,0
+Barbados,Americas,2002,0
+Belgium,Europe,2002,0
+Bolivia,Americas,2002,0
+Brazil,Americas,2002,0
+Bulgaria,Europe,2002,0
+Burundi,Africa,2002,0
+Chile,Americas,2002,0
+China,Asia,2002,2
+Colombia,Americas,2002,0
+"Congo, Dem. Rep.",Africa,2002,0
+"Congo, Rep.",Africa,2002,0
+Costa Rica,Americas,2002,0
+Croatia,Europe,2002,0
+Cuba,Americas,2002,0
+Cyprus,Europe,2002,0
+Dominica,Americas,2002,0
+Dominican Republic,Americas,2002,0
+Ecuador,Americas,2002,0
+Egypt,Africa,2002,0
+El Salvador,Americas,2002,0
+Fiji,Asia,2002,0
+Georgia,Europe,2002,6
+Germany,Europe,2002,0
+Greece,Europe,2002,0
+Guatemala,Americas,2002,0
+Guinea,Africa,2002,0
+Honduras,Americas,2002,0
+Iceland,Europe,2002,0
+India,Asia,2002,2
+Indonesia,Asia,2002,11
+Iran,Asia,2002,230
+Iraq,Asia,2002,0
+Italy,Europe,2002,30
+Japan,Asia,2002,0
+Kazakhstan,Asia,2002,0
+Kenya,Africa,2002,0
+Kyrgyz Republic,Asia,2002,0
+Malawi,Africa,2002,0
+Mexico,Americas,2002,0
+Morocco,Africa,2002,0
+Mozambique,Africa,2002,0
+Myanmar,Asia,2002,0
+Nepal,Asia,2002,0
+Netherlands,Europe,2002,0
+New Zealand,Asia,2002,0
+Nicaragua,Americas,2002,0
+North Korea,Asia,2002,0
+Pakistan,Asia,2002,36
+Panama,Americas,2002,0
+Papua New Guinea,Asia,2002,5
+Peru,Americas,2002,0
+Philippines,Asia,2002,15
+Poland,Europe,2002,0
+Romania,Europe,2002,0
+Russia,Europe,2002,0
+Rwanda,Africa,2002,45
+Slovenia,Europe,2002,0
+Solomon Islands,Asia,2002,0
+South Africa,Africa,2002,0
+Spain,Europe,2002,0
+St. Lucia,Americas,2002,0
+Sudan,Africa,2002,0
+Tajikistan,Asia,2002,3
+Tanzania,Africa,2002,2
+Thailand,Asia,2002,0
+Tonga,Asia,2002,0
+Trinidad and Tobago,Americas,2002,0
+Turkey,Europe,2002,42
+Turkmenistan,Asia,2002,0
+Uganda,Africa,2002,0
+United Kingdom,Europe,2002,0
+United States,Americas,2002,0
+Uzbekistan,Asia,2002,0
+Vanuatu,Asia,2002,0
+Venezuela,Americas,2002,0
+Yemen,Asia,2002,0
+Afghanistan,Asia,2003,1
+Albania,Europe,2003,0
+Algeria,Africa,2003,2280
+Argentina,Americas,2003,0
+Armenia,Europe,2003,0
+Australia,Asia,2003,0
+Austria,Europe,2003,0
+Azerbaijan,Europe,2003,0
+Bangladesh,Asia,2003,2
+Barbados,Americas,2003,0
+Belgium,Europe,2003,0
+Bolivia,Americas,2003,0
+Brazil,Americas,2003,0
+Bulgaria,Europe,2003,0
+Burundi,Africa,2003,0
+Chile,Americas,2003,0
+China,Asia,2003,317
+Colombia,Americas,2003,0
+"Congo, Dem. Rep.",Africa,2003,0
+"Congo, Rep.",Africa,2003,0
+Costa Rica,Americas,2003,2
+Croatia,Europe,2003,0
+Cuba,Americas,2003,0
+Cyprus,Europe,2003,0
+Dominica,Americas,2003,0
+Dominican Republic,Americas,2003,3
+Ecuador,Americas,2003,0
+Egypt,Africa,2003,0
+El Salvador,Americas,2003,0
+Fiji,Asia,2003,0
+Georgia,Europe,2003,0
+Germany,Europe,2003,0
+Greece,Europe,2003,0
+Guatemala,Americas,2003,0
+Guinea,Africa,2003,0
+Honduras,Americas,2003,0
+Iceland,Europe,2003,0
+India,Asia,2003,0
+Indonesia,Asia,2003,1
+Iran,Asia,2003,26800
+Iraq,Asia,2003,0
+Italy,Europe,2003,0
+Japan,Asia,2003,2
+Kazakhstan,Asia,2003,3
+Kenya,Africa,2003,0
+Kyrgyz Republic,Asia,2003,0
+Malawi,Africa,2003,0
+Mexico,Americas,2003,29
+Morocco,Africa,2003,0
+Mozambique,Africa,2003,0
+Myanmar,Asia,2003,0
+Nepal,Asia,2003,0
+Netherlands,Europe,2003,0
+New Zealand,Asia,2003,0
+Nicaragua,Americas,2003,0
+North Korea,Asia,2003,0
+Pakistan,Asia,2003,0
+Panama,Americas,2003,2
+Papua New Guinea,Asia,2003,0
+Peru,Americas,2003,0
+Philippines,Asia,2003,0
+Poland,Europe,2003,0
+Romania,Europe,2003,0
+Russia,Europe,2003,3
+Rwanda,Africa,2003,0
+Slovenia,Europe,2003,0
+Solomon Islands,Asia,2003,0
+South Africa,Africa,2003,0
+Spain,Europe,2003,0
+St. Lucia,Americas,2003,0
+Sudan,Africa,2003,0
+Tajikistan,Asia,2003,0
+Tanzania,Africa,2003,0
+Thailand,Asia,2003,0
+Tonga,Asia,2003,0
+Trinidad and Tobago,Americas,2003,0
+Turkey,Europe,2003,178
+Turkmenistan,Asia,2003,0
+Uganda,Africa,2003,0
+United Kingdom,Europe,2003,0
+United States,Americas,2003,2
+Uzbekistan,Asia,2003,0
+Vanuatu,Asia,2003,0
+Venezuela,Americas,2003,0
+Yemen,Asia,2003,0
+Afghanistan,Asia,2004,2
+Albania,Europe,2004,0
+Algeria,Africa,2004,0
+Argentina,Americas,2004,0
+Armenia,Europe,2004,0
+Australia,Asia,2004,0
+Austria,Europe,2004,0
+Azerbaijan,Europe,2004,0
+Bangladesh,Asia,2004,0
+Barbados,Americas,2004,0
+Belgium,Europe,2004,0
+Bolivia,Americas,2004,0
+Brazil,Americas,2004,0
+Bulgaria,Europe,2004,0
+Burundi,Africa,2004,3
+Chile,Americas,2004,0
+China,Asia,2004,4
+Colombia,Americas,2004,1
+"Congo, Dem. Rep.",Africa,2004,0
+"Congo, Rep.",Africa,2004,0
+Costa Rica,Americas,2004,8
+Croatia,Europe,2004,0
+Cuba,Americas,2004,0
+Cyprus,Europe,2004,0
+Dominica,Americas,2004,0
+Dominican Republic,Americas,2004,0
+Ecuador,Americas,2004,0
+Egypt,Africa,2004,0
+El Salvador,Americas,2004,0
+Fiji,Asia,2004,0
+Georgia,Europe,2004,0
+Germany,Europe,2004,0
+Greece,Europe,2004,0
+Guatemala,Americas,2004,0
+Guinea,Africa,2004,0
+Honduras,Americas,2004,0
+Iceland,Europe,2004,0
+India,Asia,2004,0
+Indonesia,Asia,2004,108
+Iran,Asia,2004,35
+Iraq,Asia,2004,0
+Italy,Europe,2004,0
+Japan,Asia,2004,40
+Kazakhstan,Asia,2004,0
+Kenya,Africa,2004,0
+Kyrgyz Republic,Asia,2004,0
+Malawi,Africa,2004,0
+Mexico,Americas,2004,0
+Morocco,Africa,2004,628
+Mozambique,Africa,2004,0
+Myanmar,Asia,2004,0
+Nepal,Asia,2004,0
+Netherlands,Europe,2004,0
+New Zealand,Asia,2004,0
+Nicaragua,Americas,2004,0
+North Korea,Asia,2004,0
+Pakistan,Asia,2004,24
+Panama,Americas,2004,0
+Papua New Guinea,Asia,2004,0
+Peru,Americas,2004,0
+Philippines,Asia,2004,0
+Poland,Europe,2004,0
+Romania,Europe,2004,0
+Russia,Europe,2004,0
+Rwanda,Africa,2004,0
+Slovenia,Europe,2004,1
+Solomon Islands,Asia,2004,0
+South Africa,Africa,2004,0
+Spain,Europe,2004,0
+St. Lucia,Americas,2004,0
+Sudan,Africa,2004,0
+Tajikistan,Asia,2004,0
+Tanzania,Africa,2004,0
+Thailand,Asia,2004,0
+Tonga,Asia,2004,0
+Trinidad and Tobago,Americas,2004,0
+Turkey,Europe,2004,27
+Turkmenistan,Asia,2004,0
+Uganda,Africa,2004,0
+United Kingdom,Europe,2004,0
+United States,Americas,2004,0
+Uzbekistan,Asia,2004,0
+Vanuatu,Asia,2004,0
+Venezuela,Americas,2004,0
+Yemen,Asia,2004,0
+Afghanistan,Asia,2005,6
+Albania,Europe,2005,0
+Algeria,Africa,2005,0
+Argentina,Americas,2005,0
+Armenia,Europe,2005,0
+Australia,Asia,2005,0
+Austria,Europe,2005,0
+Azerbaijan,Europe,2005,0
+Bangladesh,Asia,2005,0
+Barbados,Americas,2005,0
+Belgium,Europe,2005,0
+Bolivia,Americas,2005,0
+Brazil,Americas,2005,0
+Bulgaria,Europe,2005,0
+Burundi,Africa,2005,0
+Chile,Americas,2005,11
+China,Asia,2005,16
+Colombia,Americas,2005,0
+"Congo, Dem. Rep.",Africa,2005,0
+"Congo, Rep.",Africa,2005,6
+Costa Rica,Americas,2005,0
+Croatia,Europe,2005,0
+Cuba,Americas,2005,0
+Cyprus,Europe,2005,0
+Dominica,Americas,2005,0
+Dominican Republic,Americas,2005,0
+Ecuador,Americas,2005,0
+Egypt,Africa,2005,0
+El Salvador,Americas,2005,1
+Fiji,Asia,2005,0
+Georgia,Europe,2005,0
+Germany,Europe,2005,0
+Greece,Europe,2005,0
+Guatemala,Americas,2005,0
+Guinea,Africa,2005,0
+Honduras,Americas,2005,0
+Iceland,Europe,2005,0
+India,Asia,2005,1310
+Indonesia,Asia,2005,916
+Iran,Asia,2005,625
+Iraq,Asia,2005,0
+Italy,Europe,2005,0
+Japan,Asia,2005,1
+Kazakhstan,Asia,2005,0
+Kenya,Africa,2005,0
+Kyrgyz Republic,Asia,2005,0
+Malawi,Africa,2005,0
+Mexico,Americas,2005,0
+Morocco,Africa,2005,0
+Mozambique,Africa,2005,0
+Myanmar,Asia,2005,0
+Nepal,Asia,2005,0
+Netherlands,Europe,2005,0
+New Zealand,Asia,2005,0
+Nicaragua,Americas,2005,0
+North Korea,Asia,2005,0
+Pakistan,Asia,2005,73300
+Panama,Americas,2005,0
+Papua New Guinea,Asia,2005,1
+Peru,Americas,2005,5
+Philippines,Asia,2005,0
+Poland,Europe,2005,0
+Romania,Europe,2005,0
+Russia,Europe,2005,0
+Rwanda,Africa,2005,0
+Slovenia,Europe,2005,0
+Solomon Islands,Asia,2005,0
+South Africa,Africa,2005,2
+Spain,Europe,2005,0
+St. Lucia,Americas,2005,0
+Sudan,Africa,2005,0
+Tajikistan,Asia,2005,0
+Tanzania,Africa,2005,2
+Thailand,Asia,2005,0
+Tonga,Asia,2005,0
+Trinidad and Tobago,Americas,2005,0
+Turkey,Europe,2005,2
+Turkmenistan,Asia,2005,0
+Uganda,Africa,2005,0
+United Kingdom,Europe,2005,0
+United States,Americas,2005,0
+Uzbekistan,Asia,2005,0
+Vanuatu,Asia,2005,0
+Venezuela,Americas,2005,0
+Yemen,Asia,2005,0
+Afghanistan,Asia,2006,1
+Albania,Europe,2006,0
+Algeria,Africa,2006,4
+Argentina,Americas,2006,0
+Armenia,Europe,2006,0
+Australia,Asia,2006,0
+Austria,Europe,2006,0
+Azerbaijan,Europe,2006,0
+Bangladesh,Asia,2006,0
+Barbados,Americas,2006,0
+Belgium,Europe,2006,0
+Bolivia,Americas,2006,0
+Brazil,Americas,2006,0
+Bulgaria,Europe,2006,0
+Burundi,Africa,2006,0
+Chile,Americas,2006,0
+China,Asia,2006,23
+Colombia,Americas,2006,0
+"Congo, Dem. Rep.",Africa,2006,0
+"Congo, Rep.",Africa,2006,0
+Costa Rica,Americas,2006,0
+Croatia,Europe,2006,0
+Cuba,Americas,2006,0
+Cyprus,Europe,2006,0
+Dominica,Americas,2006,0
+Dominican Republic,Americas,2006,0
+Ecuador,Americas,2006,0
+Egypt,Africa,2006,0
+El Salvador,Americas,2006,0
+Fiji,Asia,2006,0
+Georgia,Europe,2006,0
+Germany,Europe,2006,0
+Greece,Europe,2006,0
+Guatemala,Americas,2006,0
+Guinea,Africa,2006,0
+Honduras,Americas,2006,0
+Iceland,Europe,2006,0
+India,Asia,2006,0
+Indonesia,Asia,2006,5790
+Iran,Asia,2006,63
+Iraq,Asia,2006,0
+Italy,Europe,2006,0
+Japan,Asia,2006,0
+Kazakhstan,Asia,2006,0
+Kenya,Africa,2006,0
+Kyrgyz Republic,Asia,2006,0
+Malawi,Africa,2006,0
+Mexico,Americas,2006,0
+Morocco,Africa,2006,0
+Mozambique,Africa,2006,4
+Myanmar,Asia,2006,0
+Nepal,Asia,2006,0
+Netherlands,Europe,2006,0
+New Zealand,Asia,2006,0
+Nicaragua,Americas,2006,0
+North Korea,Asia,2006,0
+Pakistan,Asia,2006,0
+Panama,Americas,2006,0
+Papua New Guinea,Asia,2006,0
+Peru,Americas,2006,0
+Philippines,Asia,2006,0
+Poland,Europe,2006,0
+Romania,Europe,2006,0
+Russia,Europe,2006,0
+Rwanda,Africa,2006,0
+Slovenia,Europe,2006,0
+Solomon Islands,Asia,2006,0
+South Africa,Africa,2006,0
+Spain,Europe,2006,0
+St. Lucia,Americas,2006,0
+Sudan,Africa,2006,0
+Tajikistan,Asia,2006,3
+Tanzania,Africa,2006,0
+Thailand,Asia,2006,0
+Tonga,Asia,2006,0
+Trinidad and Tobago,Americas,2006,0
+Turkey,Europe,2006,0
+Turkmenistan,Asia,2006,0
+Uganda,Africa,2006,0
+United Kingdom,Europe,2006,0
+United States,Americas,2006,0
+Uzbekistan,Asia,2006,0
+Vanuatu,Asia,2006,0
+Venezuela,Americas,2006,0
+Yemen,Asia,2006,0
+Afghanistan,Asia,2007,0
+Albania,Europe,2007,0
+Algeria,Africa,2007,0
+Argentina,Americas,2007,0
+Armenia,Europe,2007,0
+Australia,Asia,2007,0
+Austria,Europe,2007,0
+Azerbaijan,Europe,2007,0
+Bangladesh,Asia,2007,0
+Barbados,Americas,2007,0
+Belgium,Europe,2007,0
+Bolivia,Americas,2007,0
+Brazil,Americas,2007,1
+Bulgaria,Europe,2007,0
+Burundi,Africa,2007,0
+Chile,Americas,2007,12
+China,Asia,2007,3
+Colombia,Americas,2007,0
+"Congo, Dem. Rep.",Africa,2007,0
+"Congo, Rep.",Africa,2007,0
+Costa Rica,Americas,2007,0
+Croatia,Europe,2007,0
+Cuba,Americas,2007,0
+Cyprus,Europe,2007,0
+Dominica,Americas,2007,0
+Dominican Republic,Americas,2007,0
+Ecuador,Americas,2007,0
+Egypt,Africa,2007,0
+El Salvador,Americas,2007,0
+Fiji,Asia,2007,0
+Georgia,Europe,2007,0
+Germany,Europe,2007,0
+Greece,Europe,2007,0
+Guatemala,Americas,2007,0
+Guinea,Africa,2007,0
+Honduras,Americas,2007,0
+Iceland,Europe,2007,0
+India,Asia,2007,0
+Indonesia,Asia,2007,95
+Iran,Asia,2007,0
+Iraq,Asia,2007,0
+Italy,Europe,2007,0
+Japan,Asia,2007,10
+Kazakhstan,Asia,2007,0
+Kenya,Africa,2007,0
+Kyrgyz Republic,Asia,2007,0
+Malawi,Africa,2007,0
+Mexico,Americas,2007,0
+Morocco,Africa,2007,0
+Mozambique,Africa,2007,0
+Myanmar,Asia,2007,0
+Nepal,Asia,2007,0
+Netherlands,Europe,2007,0
+New Zealand,Asia,2007,0
+Nicaragua,Americas,2007,0
+North Korea,Asia,2007,0
+Pakistan,Asia,2007,0
+Panama,Americas,2007,0
+Papua New Guinea,Asia,2007,0
+Peru,Americas,2007,519
+Philippines,Asia,2007,0
+Poland,Europe,2007,0
+Romania,Europe,2007,0
+Russia,Europe,2007,2
+Rwanda,Africa,2007,0
+Slovenia,Europe,2007,0
+Solomon Islands,Asia,2007,0
+South Africa,Africa,2007,0
+Spain,Europe,2007,0
+St. Lucia,Americas,2007,0
+Sudan,Africa,2007,0
+Tajikistan,Asia,2007,11
+Tanzania,Africa,2007,0
+Thailand,Asia,2007,0
+Tonga,Asia,2007,0
+Trinidad and Tobago,Americas,2007,0
+Turkey,Europe,2007,0
+Turkmenistan,Asia,2007,0
+Uganda,Africa,2007,0
+United Kingdom,Europe,2007,0
+United States,Americas,2007,0
+Uzbekistan,Asia,2007,0
+Vanuatu,Asia,2007,0
+Venezuela,Americas,2007,0
+Yemen,Asia,2007,0
+Afghanistan,Asia,2008,0
+Albania,Europe,2008,0
+Algeria,Africa,2008,0
+Argentina,Americas,2008,0
+Armenia,Europe,2008,0
+Australia,Asia,2008,0
+Austria,Europe,2008,0
+Azerbaijan,Europe,2008,0
+Bangladesh,Asia,2008,0
+Barbados,Americas,2008,0
+Belgium,Europe,2008,0
+Bolivia,Americas,2008,0
+Brazil,Americas,2008,0
+Bulgaria,Europe,2008,0
+Burundi,Africa,2008,0
+Chile,Americas,2008,0
+China,Asia,2008,87600
+Colombia,Americas,2008,0
+"Congo, Dem. Rep.",Africa,2008,7
+"Congo, Rep.",Africa,2008,0
+Costa Rica,Americas,2008,0
+Croatia,Europe,2008,0
+Cuba,Americas,2008,0
+Cyprus,Europe,2008,0
+Dominica,Americas,2008,0
+Dominican Republic,Americas,2008,0
+Ecuador,Americas,2008,0
+Egypt,Africa,2008,0
+El Salvador,Americas,2008,0
+Fiji,Asia,2008,0
+Georgia,Europe,2008,0
+Germany,Europe,2008,0
+Greece,Europe,2008,2
+Guatemala,Americas,2008,0
+Guinea,Africa,2008,0
+Honduras,Americas,2008,0
+Iceland,Europe,2008,0
+India,Asia,2008,0
+Indonesia,Asia,2008,11
+Iran,Asia,2008,6
+Iraq,Asia,2008,0
+Italy,Europe,2008,0
+Japan,Asia,2008,14
+Kazakhstan,Asia,2008,0
+Kenya,Africa,2008,0
+Kyrgyz Republic,Asia,2008,74
+Malawi,Africa,2008,0
+Mexico,Americas,2008,0
+Morocco,Africa,2008,0
+Mozambique,Africa,2008,0
+Myanmar,Asia,2008,0
+Nepal,Asia,2008,0
+Netherlands,Europe,2008,0
+New Zealand,Asia,2008,0
+Nicaragua,Americas,2008,0
+North Korea,Asia,2008,0
+Pakistan,Asia,2008,166
+Panama,Americas,2008,0
+Papua New Guinea,Asia,2008,0
+Peru,Americas,2008,0
+Philippines,Asia,2008,0
+Poland,Europe,2008,0
+Romania,Europe,2008,0
+Russia,Europe,2008,13
+Rwanda,Africa,2008,36
+Slovenia,Europe,2008,0
+Solomon Islands,Asia,2008,0
+South Africa,Africa,2008,0
+Spain,Europe,2008,0
+St. Lucia,Americas,2008,0
+Sudan,Africa,2008,0
+Tajikistan,Asia,2008,0
+Tanzania,Africa,2008,0
+Thailand,Asia,2008,0
+Tonga,Asia,2008,0
+Trinidad and Tobago,Americas,2008,0
+Turkey,Europe,2008,0
+Turkmenistan,Asia,2008,0
+Uganda,Africa,2008,0
+United Kingdom,Europe,2008,0
+United States,Americas,2008,0
+Uzbekistan,Asia,2008,0
+Vanuatu,Asia,2008,0
+Venezuela,Americas,2008,0
+Yemen,Asia,2008,0
