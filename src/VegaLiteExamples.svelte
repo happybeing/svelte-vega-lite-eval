@@ -4,6 +4,7 @@ import {default as embed}  from 'vega-embed';
 
 import simpleChartSpec from './vl-specs/vega-simple-chart.js';
 import lineMultipleSpec from './vl-specs/line-multiple.vl.json';
+import forceGraphSpec from './vl-specs/force.vg.json';
 
 // For debugging
 import {compile} from 'vega-lite';
@@ -19,7 +20,7 @@ onMount(() => {
   //  embed("#scatter-plot", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#time-series", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#tree", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
-  //  embed("#force-graph", './force.vg.json', { actions: false }).catch(error => console.log(error) );
+   embed("#force-graph", forceGraphSpec, { actions: false }).catch(error => console.log(error) );
   //  embed("#geospacial", simpleChartSpec, { actions: false }).catch(error => console.log(error) );
 });
 
